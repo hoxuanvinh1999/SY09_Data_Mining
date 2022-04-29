@@ -1397,7 +1397,7 @@ Men,Gold,Athletics,1992,Finland,FIN
 Men,Gold,Athletics,1992,Korea,KOR
 Men,Gold,Athletics,1992,Germany,GER
 Men,Gold,Athletics,1992,Austria,AUT
-Men,Gold,Athletics,1992,GRONSKY Roman,TCH
+Men,Gold,Athletics,1992,Czech Republic,TCH
 Men,Gold,Athletics,1992,-,EUN
 Men,Gold,Athletics,1992,Poland,POL
 Women,Gold,Athletics,1992,Germany,GER
@@ -1430,9 +1430,9 @@ Women,Gold,Athletics,1992,Denmark,DEN
 Women,Gold,Athletics,1992,Spain,ESP
 Women,Gold,Athletics,1992,-,EUN
 Women,Gold,Athletics,1992,Denmark,DEN
-Women,Gold,Athletics,1992,GRONSKY Roman,TCH
+Women,Gold,Athletics,1992,Czech Republic,TCH
 Women,Gold,Athletics,1992,-,EUN
-Women,Gold,Athletics,1992,GRONSKY Roman,TCH
+Women,Gold,Athletics,1992,Czech Republic,TCH
 Women,Gold,Athletics,1992,United States of America,USA
 Women,Gold,Athletics,1992,Germany,GER
 Women,Gold,Athletics,1992,Denmark,DEN
@@ -1447,7 +1447,7 @@ Women,Gold,Athletics,1992,China,CHN
 Women,Gold,Athletics,1992,Australia,AUS
 Women,Gold,Athletics,1992,Canada,CAN
 Women,Gold,Athletics,1992,China,CHN
-Women,Gold,Athletics,1992,GRONSKY Roman,TCH
+Women,Gold,Athletics,1992,Czech Republic,TCH
 Women,Gold,Athletics,1992,Germany,GER
 Women,Gold,Athletics,1992,Brazil,BRA
 Women,Gold,Athletics,1992,Canada,CAN
@@ -7918,7 +7918,7 @@ Men,Silver,Athletics,1992,Austria,AUT
 Men,Silver,Athletics,1992,France,FRA
 Men,Silver,Athletics,1992,Norway,NOR
 Men,Silver,Athletics,1992,Spain,ESP
-Men,Silver,Athletics,1992,GRONSKY Roman,TCH
+Men,Silver,Athletics,1992,Czech Republic,TCH
 Men,Silver,Athletics,1992,Spain,ESP
 Men,Silver,Athletics,1992,United States of America,USA
 Men,Silver,Athletics,1992,Switzerland,SUI
@@ -8033,7 +8033,7 @@ Women,Silver,Athletics,1992,Serbia,IPP
 Women,Silver,Athletics,1992,Belgium,BEL
 Women,Silver,Athletics,1992,France,FRA
 Women,Silver,Athletics,1992,Kuwait,KUW
-Women,Silver,Athletics,1992,GRONSKY Roman,TCH
+Women,Silver,Athletics,1992,Czech Republic,TCH
 Women,Silver,Athletics,1992,United States of America,USA
 Women,Silver,Athletics,1992,Germany,GER
 Women,Silver,Athletics,1992,Australia,AUS
@@ -10019,7 +10019,7 @@ Men,Silver,Swimming,1980,Poland,POL
 Men,Silver,Swimming,1980,Great Britain,GBR
 Men,Silver,Swimming,1980,Sweden,SWE
 Men,Silver,Swimming,1980,Canada,CAN
-Men,Silver,Swimming,1980,GRONSKY Roman,TCH
+Men,Silver,Swimming,1980,Czech Republic,TCH
 Men,Silver,Swimming,1980,Poland,POL
 Men,Silver,Swimming,1980,FR Germany,FRG
 Men,Silver,Swimming,1980,FR Germany,FRG
@@ -14352,7 +14352,7 @@ Men,Bronze,Athletics,1992,Korea,KOR
 Men,Bronze,Athletics,1992,Austria,AUT
 Men,Bronze,Athletics,1992,Germany,GER
 Men,Bronze,Athletics,1992,Iraq,IRQ
-Men,Bronze,Athletics,1992,GRONSKY Roman,TCH
+Men,Bronze,Athletics,1992,Czech Republic,TCH
 Men,Bronze,Athletics,1992,Bahrain,BRN
 Men,Bronze,Athletics,1992,Germany,GER
 Men,Bronze,Athletics,1992,United States of America,USA
@@ -14368,7 +14368,7 @@ Men,Bronze,Athletics,1992,Germany,GER
 Men,Bronze,Athletics,1992,Thailand,THA
 Men,Bronze,Athletics,1992,Canada,CAN
 Men,Bronze,Athletics,1992,-,EUN
-Men,Bronze,Athletics,1992,GRONSKY Roman,TCH
+Men,Bronze,Athletics,1992,Czech Republic,TCH
 Men,Bronze,Athletics,1992,Cuba,CUB
 Men,Bronze,Athletics,1992,Jamaica,JAM
 Men,Bronze,Athletics,1992,Great Britain,GBR
@@ -14383,7 +14383,7 @@ Men,Bronze,Athletics,1992,Germany,GER
 Men,Bronze,Athletics,1992,United States of America,USA
 Men,Bronze,Athletics,1992,United States of America,USA
 Men,Bronze,Athletics,1992,Spain,ESP
-Men,Bronze,Athletics,1992,GRONSKY Roman,TCH
+Men,Bronze,Athletics,1992,Czech Republic,TCH
 Women,Bronze,Athletics,1992,-,EUN
 Women,Bronze,Athletics,1992,Mexico,MEX
 Women,Bronze,Athletics,1992,Canada,CAN
@@ -14411,7 +14411,7 @@ Women,Bronze,Athletics,1992,Ireland,IRL
 Women,Bronze,Athletics,1992,France,FRA
 Women,Bronze,Athletics,1992,Canada,CAN
 Women,Bronze,Athletics,1992,Canada,CAN
-Women,Bronze,Athletics,1992,GRONSKY Roman,TCH
+Women,Bronze,Athletics,1992,Czech Republic,TCH
 Women,Bronze,Athletics,1992,United States of America,USA
 Women,Bronze,Athletics,1992,Netherlands,NED
 Women,Bronze,Athletics,1992,Spain,ESP
@@ -14423,7 +14423,7 @@ Women,Bronze,Athletics,1992,United States of America,USA
 Women,Bronze,Athletics,1992,Germany,GER
 Women,Bronze,Athletics,1992,Germany,GER
 Women,Bronze,Athletics,1992,Spain,ESP
-Women,Bronze,Athletics,1992,GRONSKY Roman,TCH
+Women,Bronze,Athletics,1992,Czech Republic,TCH
 Women,Bronze,Athletics,1992,Mexico,MEX
 Women,Bronze,Athletics,1992,Slovenia,SLO
 Women,Bronze,Athletics,1992,Great Britain,GBR
@@ -16484,7 +16484,7 @@ Men,Bronze,Swimming,1980,Spain,ESP
 Men,Bronze,Swimming,1980,Sweden,SWE
 Men,Bronze,Swimming,1980,Sweden,SWE
 Men,Bronze,Swimming,1980,Poland,POL
-Men,Bronze,Swimming,1980,GRONSKY Roman,TCH
+Men,Bronze,Swimming,1980,Czech Republic,TCH
 Men,Bronze,Swimming,1980,Poland,POL
 Men,Bronze,Swimming,1980,Sweden,SWE
 Men,Bronze,Swimming,1980,Spain,ESP
@@ -19397,18 +19397,18 @@ Men,Bronze,Volleyball,1992,Germany,GER
 Men,Bronze,Volleyball,1992,Germany,GER
 Men,Bronze,Volleyball,1992,Germany,GER
 Men,Bronze,Volleyball,1992,Germany,GER
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
-Men,Bronze,Volleyball,1992,GRONSKY Roman,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
+Men,Bronze,Volleyball,1992,Czech Republic,TCH
 Men,Bronze,Volleyball,1996,Finland,FIN
 Men,Bronze,Volleyball,1996,Finland,FIN
 Men,Bronze,Volleyball,1996,Finland,FIN

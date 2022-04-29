@@ -32,11 +32,11 @@ Women,Double FITA Round Div. 3,Gold,Archery,1984,Great Britain,GBR,HILDERLEY Hel
 Women,Double FITA Round Integrated,Gold,Archery,1984,FR Germany,FRG,DERSEN Anneliese
 Women,Double FITA Round Paraplegic,Gold,Archery,1984,United States of America,USA,HAGEL Susan
 Women,Double Short Metric Round Paraplegic,Gold,Archery,1984,France,FRA,BALME M. P.
-Men,Double FITA Round Team 1A-6,Gold,Archery,1984,Belgium,BEL,UNKNOWN
+Men,Double FITA Round Team 1A-6,Gold,Archery,1984,Belgium,BEL,Belgium
 Men,Double FITA Round Team Integrated,Gold,Archery,1984,Sweden,SWE,AHLINDER S.BABKIN Nicolai
 Men,Double FITA Round Team Integrated,Gold,Archery,1984,Sweden,SWE,TJERNELL Arne
-Men,Short Metric Round Team 1A-6,Gold,Archery,1984,France,FRA,UNKNOWN
-Men,Double Advanced Metric Round Team 1A-6,Gold,Archery,1984,France,FRA,UNKNOWN
+Men,Short Metric Round Team 1A-6,Gold,Archery,1984,France,FRA,France
+Men,Double Advanced Metric Round Team 1A-6,Gold,Archery,1984,France,FRA,France
 Men,"Single FITA Round C7,C8",Gold,Archery,1988,Belgium,BEL,KUYS Alfons
 Men,Double FITA Round Open,Gold,Archery,1988,Korea,KOR,AN Tae Sung
 Men,Double FITA Round 2-6,Gold,Archery,1988,Switzerland,SUI,BAUDOIS Michel
@@ -405,22 +405,22 @@ Men,4x60 m 1A-1C,Gold,Athletics,1980,Mexico,MEX,DE LAS FUENTES Francisco
 Men,4x60 m 1A-1C,Gold,Athletics,1980,Mexico,MEX,GRANADOS Arturo
 Men,4x60 m 1A-1C,Gold,Athletics,1980,Mexico,MEX,MONSALVO Eduardo
 Men,4x60 m 1A-1C,Gold,Athletics,1980,Mexico,MEX,SANDOVAL Pedro
-Men,4x80 m CP D,Gold,Athletics,1980,United States of America,USA,UNKNOWN
-Men,4x100 m C,Gold,Athletics,1980,FR Germany,FRG,UNKNOWN
-Men,4x100 m D,Gold,Athletics,1980,FR Germany,FRG,UNKNOWN
+Men,4x80 m CP D,Gold,Athletics,1980,United States of America,USA,United States of America
+Men,4x100 m C,Gold,Athletics,1980,FR Germany,FRG,FR Germany
+Men,4x100 m D,Gold,Athletics,1980,FR Germany,FRG,FR Germany
 Men,4x100 m D1,Gold,Athletics,1980,United States of America,USA,BRINKMAN C.
 Men,4x100 m D1,Gold,Athletics,1980,United States of America,USA,BRYANT Richard
 Men,4x100 m D1,Gold,Athletics,1980,United States of America,USA,FINCH J.
 Men,4x100 m D1,Gold,Athletics,1980,United States of America,USA,MARTINSON Jim
-Men,4x100 m E-F1,Gold,Athletics,1980,FR Germany,FRG,UNKNOWN
+Men,4x100 m E-F1,Gold,Athletics,1980,FR Germany,FRG,FR Germany
 Men,4x100 m 2-5,Gold,Athletics,1980,Belgium,BEL,DE MEYER M.
 Men,4x100 m 2-5,Gold,Athletics,1980,Belgium,BEL,DE VOS Marc
 Men,4x100 m 2-5,Gold,Athletics,1980,Belgium,BEL,VAN OPHEM Remi
 Men,4x100 m 2-5,Gold,Athletics,1980,Belgium,BEL,VAN WINKEL Paul
-Men,4x400 m D1,Gold,Athletics,1980,United States of America,USA,UNKNOWN
-Men,4x400 m E,Gold,Athletics,1980,FR Germany,FRG,UNKNOWN
-Women,4x60 m 1A-1C,Gold,Athletics,1980,United States of America,USA,UNKNOWN
-Women,4x60 m CP C,Gold,Athletics,1980,United States of America,USA,UNKNOWN
+Men,4x400 m D1,Gold,Athletics,1980,United States of America,USA,United States of America
+Men,4x400 m E,Gold,Athletics,1980,FR Germany,FRG,FR Germany
+Women,4x60 m 1A-1C,Gold,Athletics,1980,United States of America,USA,United States of America
+Women,4x60 m CP C,Gold,Athletics,1980,United States of America,USA,United States of America
 Women,4x60 m 2-5,Gold,Athletics,1980,Mexico,MEX,GARCIA ESTRADA Dora Elia
 Women,4x60 m 2-5,Gold,Athletics,1980,Mexico,MEX,CAMARA Rosa
 Women,4x60 m 2-5,Gold,Athletics,1980,Mexico,MEX,SOTO Juana
@@ -859,21 +859,21 @@ Women,Pentathlon 3,Gold,Athletics,1984,New Zealand,NZL,HADFIELD S.
 Women,Pentathlon 4,Gold,Athletics,1984,United States of America,USA,CARLTON Kathryne Lynne
 Women,Pentathlon 5,Gold,Athletics,1984,Mexico,MEX,SOTO Juana
 Women,Pentathlon 6,Gold,Athletics,1984,France,FRA,PRIEUR Martine
-Mixed,3x60 m C2-3,Gold,Athletics,1984,United States of America,USA,UNKNOWN
+Mixed,3x60 m C2-3,Gold,Athletics,1984,United States of America,USA,United States of America
 Men,Long Jump B2,Gold,Athletics,1984,Japan,JPN,OZAKI Mineho
 Women,Long Jump A2,Gold,Athletics,1984,Great Britain,GBR,DICKS Evelyn
-Men,4x100 m 1A-1C,Gold,Athletics,1984,United States of America,USA,UNKNOWN
-Men,4x100 m A4-9,Gold,Athletics,1984,Australia,AUS,UNKNOWN
-Men,4x100 m C4,Gold,Athletics,1984,Canada,CAN,UNKNOWN
-Men,4x100 m C7-8,Gold,Athletics,1984,Great Britain,GBR,UNKNOWN
-Men,4x100 m 2-5,Gold,Athletics,1984,Belgium,BEL,UNKNOWN
-Men,4x200 m 1A-1C,Gold,Athletics,1984,Canada,CAN,UNKNOWN
-Men,4x200 m 2-5,Gold,Athletics,1984,Belgium,BEL,UNKNOWN
-Men,4x400 m A4-9,Gold,Athletics,1984,Poland,POL,UNKNOWN
-Men,4x400 m 2-5,Gold,Athletics,1984,Belgium,BEL,UNKNOWN
-Women,4x100 m 2-5,Gold,Athletics,1984,Canada,CAN,UNKNOWN
-Women,4x200 m 2-5,Gold,Athletics,1984,United States of America,USA,UNKNOWN
-Women,4x400 m 2-5,Gold,Athletics,1984,Hong Kong,HKG,UNKNOWN
+Men,4x100 m 1A-1C,Gold,Athletics,1984,United States of America,USA,United States of America
+Men,4x100 m A4-9,Gold,Athletics,1984,Australia,AUS,Australia
+Men,4x100 m C4,Gold,Athletics,1984,Canada,CAN,Canada
+Men,4x100 m C7-8,Gold,Athletics,1984,Great Britain,GBR,Great Britain
+Men,4x100 m 2-5,Gold,Athletics,1984,Belgium,BEL,Belgium
+Men,4x200 m 1A-1C,Gold,Athletics,1984,Canada,CAN,Canada
+Men,4x200 m 2-5,Gold,Athletics,1984,Belgium,BEL,Belgium
+Men,4x400 m A4-9,Gold,Athletics,1984,Poland,POL,Poland
+Men,4x400 m 2-5,Gold,Athletics,1984,Belgium,BEL,Belgium
+Women,4x100 m 2-5,Gold,Athletics,1984,Canada,CAN,Canada
+Women,4x200 m 2-5,Gold,Athletics,1984,United States of America,USA,United States of America
+Women,4x400 m 2-5,Gold,Athletics,1984,Hong Kong,HKG,Hong Kong
 Men,100 m 1A,Gold,Athletics,1988,FR Germany,FRG,LUBBERING Hans
 Men,100 m 1B,Gold,Athletics,1988,Great Britain,GBR,CARRUTHERS Peter
 Men,100 m 1C,Gold,Athletics,1988,United States of America,USA,DORMAN Randy
@@ -1397,7 +1397,7 @@ Men,Javelin C7,Gold,Athletics,1992,Finland,FIN,MAKINEN Antti
 Men,Club Throw C6,Gold,Athletics,1992,Korea,KOR,KIM Dae Kwan
 Men,Pentathlon PS3,Gold,Athletics,1992,Germany,GER,SIMONAZZI Roberto
 Men,Pentathlon PS4,Gold,Athletics,1992,Austria,AUT,HARTL Manfred
-Men,Pentathlon PW3-4,Gold,Athletics,1992,GRONSKY Roman,TCH,VASICEK Vojtech
+Men,Pentathlon PW3-4,Gold,Athletics,1992,Czech Republic,TCH,VASICEK Vojtech
 Men,Pentathlon B1,Gold,Athletics,1992,-,EUN,SEVASTIANOV Sergei
 Men,Pentathlon B2,Gold,Athletics,1992,Poland,POL,PYCH Miroslaw
 Women,100 m TS4,Gold,Athletics,1992,Germany,GER,SACHSE Jessica
@@ -1430,9 +1430,9 @@ Women,800 m TW4,Gold,Athletics,1992,Denmark,DEN,HANSEN Connie
 Women,800 m B1,Gold,Athletics,1992,Spain,ESP,SANTAMARTA Purificacion
 Women,800 m B2,Gold,Athletics,1992,-,EUN,BATALOVA Rimma
 Women,1500 m TW3-4,Gold,Athletics,1992,Denmark,DEN,HANSEN Connie
-Women,1500 m B1,Gold,Athletics,1992,GRONSKY Roman,TCH,VALNICKOVA Pavla
+Women,1500 m B1,Gold,Athletics,1992,Czech Republic,TCH,VALNICKOVA Pavla
 Women,1500 m B2,Gold,Athletics,1992,-,EUN,BATALOVA Rimma
-Women,3000 m B1,Gold,Athletics,1992,GRONSKY Roman,TCH,VALNICKOVA Pavla
+Women,3000 m B1,Gold,Athletics,1992,Czech Republic,TCH,VALNICKOVA Pavla
 Women,3000 m B2,Gold,Athletics,1992,United States of America,USA,MCGONIGLE Pamela
 Women,5000 m TW3-4,Gold,Athletics,1992,Germany,GER,ANGGRENY Lily
 Women,10000 m TW3-4,Gold,Athletics,1992,Denmark,DEN,HANSEN Connie
@@ -1447,7 +1447,7 @@ Women,Shot Put B1,Gold,Athletics,1992,China,CHN,ZHENG Pei
 Women,Shot Put B2,Gold,Athletics,1992,Australia,AUS,WILLIS Jodi
 Women,Shot Put C5>8,Gold,Athletics,1992,Canada,CAN,BOUW Joanne
 Women,Discus Throw THS2,Gold,Athletics,1992,China,CHN,LIU Yu Kun
-Women,Discus Throw THW4,Gold,Athletics,1992,GRONSKY Roman,TCH,BEHALOVA Miloslava
+Women,Discus Throw THW4,Gold,Athletics,1992,Czech Republic,TCH,BEHALOVA Miloslava
 Women,Discus Throw THW5,Gold,Athletics,1992,Germany,GER,BUGGENHAGEN Marianne
 Women,Discus Throw THW7,Gold,Athletics,1992,Brazil,BRA,GUIMARAES Suely
 Women,Discus Throw B1,Gold,Athletics,1992,Canada,CAN,LJUBISIC Ljiljana
@@ -1714,7 +1714,7 @@ Men,4x100 m T42-46,Gold,Athletics,1996,Australia,AUS,EVANS David
 Men,4x100 m T42-46,Gold,Athletics,1996,Australia,AUS,FULLER Neil
 Men,4x100 m T42-46,Gold,Athletics,1996,Australia,AUS,MATTHEWS Tim
 Men,4x100 m T42-46,Gold,Athletics,1996,Australia,AUS,THOMAS Bradley
-Men,4x100 m T52-53,Gold,Athletics,1996,Germany,GER,UNKNOWN
+Men,4x100 m T52-53,Gold,Athletics,1996,Germany,GER,Germany
 Men,4x400 m T10-12,Gold,Athletics,1996,Spain,ESP,PRIETO Juan Antonio
 Men,4x400 m T10-12,Gold,Athletics,1996,Spain,ESP,SANCHEZ Jose Antonio
 Men,4x400 m T10-12,Gold,Athletics,1996,Spain,ESP,SANCHEZ Sergio
@@ -2752,10 +2752,10 @@ Women,4x400 m T53/54,Gold,Athletics,2016,China,CHN,LIU Wenjun
 Women,4x400 m T53/54,Gold,Athletics,2016,China,CHN,ZHOU Hongzhuan
 Women,4x400 m T53/54,Gold,Athletics,2016,China,CHN,LI Yingjie
 Women,4x400 m T53/54,Gold,Athletics,2016,China,CHN,ZOU Lihong
-Men,Tournament,Gold,Basketball,1980,Israel,ISR,UNKNOWN
-Women,Tournament,Gold,Basketball,1980,FR Germany,FRG,UNKNOWN
-Men,Tournament,Gold,Basketball,1984,France,FRA,UNKNOWN
-Women,Tournament,Gold,Basketball,1984,FR Germany,FRG,UNKNOWN
+Men,Tournament,Gold,Basketball,1980,Israel,ISR,Israel
+Women,Tournament,Gold,Basketball,1980,FR Germany,FRG,FR Germany
+Men,Tournament,Gold,Basketball,1984,France,FRA,France
+Women,Tournament,Gold,Basketball,1984,FR Germany,FRG,FR Germany
 Men,Tournament,Gold,Basketball,1988,United States of America,USA,BELL Curtis
 Men,Tournament,Gold,Basketball,1988,United States of America,USA,CAMPOS Albert
 Men,Tournament,Gold,Basketball,1988,United States of America,USA,EFFERSON David
@@ -2960,8 +2960,8 @@ Women,Foil Novice Individual,Gold,Fencing,1980,Italy,ITA,BRUGNOLI Osanna
 Mixed,Foil Individual 1A,Gold,Fencing,1980,Italy,ITA,D'AGOSTINI Paolo
 Mixed,Foil Individual 1B,Gold,Fencing,1980,Italy,ITA,SICARI Rosa
 Mixed,Foil Individual 1C,Gold,Fencing,1980,FR Germany,FRG,SPIESS Guenter
-Men,Epee Team,Gold,Fencing,1980,France,FRA,UNKNOWN
-Men,Foil Team,Gold,Fencing,1980,France,FRA,UNKNOWN
+Men,Epee Team,Gold,Fencing,1980,France,FRA,France
+Men,Foil Team,Gold,Fencing,1980,France,FRA,France
 Men,Sabre Team,Gold,Fencing,1980,France,FRA,CARALIE J.
 Men,Sabre Team,Gold,Fencing,1980,France,FRA,M.
 Men,Sabre Team,Gold,Fencing,1980,France,FRA,HENNAERT Andre
@@ -2981,10 +2981,10 @@ Men,Sabre Individual 4-5,Gold,Fencing,1984,Great Britain,GBR,DAVIES Kevin
 Women,Foil Individual 2-3,Gold,Fencing,1984,France,FRA,DESMARETS Murielle
 Women,Foil Individual 4-5,Gold,Fencing,1984,Hong Kong,HKG,FUNG Yuet Wah
 Women,Foil Individual 1C,Gold,Fencing,1984,France,FRA,SOETEMONDT Veronique
-Men,Epee Team,Gold,Fencing,1984,France,FRA,UNKNOWN
-Men,Foil Team,Gold,Fencing,1984,France,FRA,UNKNOWN
-Men,Sabre Team,Gold,Fencing,1984,France,FRA,UNKNOWN
-Women,Foil Team,Gold,Fencing,1984,France,FRA,UNKNOWN
+Men,Epee Team,Gold,Fencing,1984,France,FRA,France
+Men,Foil Team,Gold,Fencing,1984,France,FRA,France
+Men,Sabre Team,Gold,Fencing,1984,France,FRA,France
+Women,Foil Team,Gold,Fencing,1984,France,FRA,France
 Men,Epee Individual 1C-3,Gold,Fencing,1988,Italy,ITA,ZONGHI Luigi
 Men,Epee Individual 4-6,Gold,Fencing,1988,France,FRA,CITERNE Robert
 Men,Foil Individual 1C-3,Gold,Fencing,1988,Korea,KOR,CHOI Il Joo
@@ -3305,7 +3305,7 @@ Women,-73 kg,Gold,Powerlifting,2016,Nigeria,NGR,NWOSU Ndidi
 Women,-79 kg,Gold,Powerlifting,2016,Nigeria,NGR,OMOLAYO Bose
 Women,-86 kg,Gold,Powerlifting,2016,Egypt,EGY,MAHMOUD Randa
 Women,+86 kg,Gold,Powerlifting,2016,Nigeria,NGR,ORJI Josephine
-Mixed,Wheelchair Rugby,Gold,Rugby,1996,UNKNOWN,UNKNOWN,UNKNOWN
+Mixed,Wheelchair Rugby,Gold,Rugby,1996,UNKNOWN,UNKNOWN,-
 Mixed,Wheelchair Rugby,Gold,Rugby,2000,United States of America,USA,CHUNN Clifton
 Mixed,Wheelchair Rugby,Gold,Rugby,2000,United States of America,USA,CROUCH Eddie
 Mixed,Wheelchair Rugby,Gold,Rugby,2000,United States of America,USA,DRANEY Rick
@@ -3436,12 +3436,12 @@ Men,3x50 m Individual Medley C1,Gold,Swimming,1980,Norway,NOR,TRONDSEN Erling
 Men,3x50 m Individual Medley D1,Gold,Swimming,1980,Yugoslavia,YUG,BANFI Jozef
 Men,3x50 m Individual Medley E1,Gold,Swimming,1980,Poland,POL,WOJCIECHOWSKI Andrzej
 Men,3x50 m Individual Medley F,Gold,Swimming,1980,FR Germany,FRG,SCHROEDER Karl
-Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1980,FR Germany,FRG,UNKNOWN
-Men,3x50 m Freestyle Relay E-F,Gold,Swimming,1980,FR Germany,FRG,UNKNOWN
-Men,3x50 m Freestyle Relay E1-F1,Gold,Swimming,1980,FR Germany,FRG,UNKNOWN
-Men,3x100 m Freestyle Relay C1-D1,Gold,Swimming,1980,Netherlands,NED,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Gold,Swimming,1980,Poland,POL,UNKNOWN
-Men,3x100 m Medley Relay CP D,Gold,Swimming,1980,Netherlands,NED,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1980,FR Germany,FRG,FR Germany
+Men,3x50 m Freestyle Relay E-F,Gold,Swimming,1980,FR Germany,FRG,FR Germany
+Men,3x50 m Freestyle Relay E1-F1,Gold,Swimming,1980,FR Germany,FRG,FR Germany
+Men,3x100 m Freestyle Relay C1-D1,Gold,Swimming,1980,Netherlands,NED,Netherlands
+Men,3x50 m Medley Relay 2-4,Gold,Swimming,1980,Poland,POL,Poland
+Men,3x100 m Medley Relay CP D,Gold,Swimming,1980,Netherlands,NED,Netherlands
 Women,25 m Freestyle 1A,Gold,Swimming,1980,United States of America,USA,DONALDSON Karen
 Women,25 m Freestyle 1B,Gold,Swimming,1980,Mexico,MEX,SANDOVAL Martha
 Women,25 m Freestyle 1C,Gold,Swimming,1980,Great Britain,GBR,BARR Isabel
@@ -3514,10 +3514,10 @@ Women,2x50 m Individual Medley F1,Gold,Swimming,1980,FR Germany,FRG,SCHAD Petra
 Women,3x50 m Individual Medley C1,Gold,Swimming,1980,Poland,POL,KRAJEWSKA Lucyna
 Women,3x50 m Individual Medley D1,Gold,Swimming,1980,Norway,NOR,MASTAD Maj Britt
 Women,3x50 m Individual Medley F,Gold,Swimming,1980,France,FRA,ALLARD M. H.
-Women,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1980,United States of America,USA,UNKNOWN
-Women,3x100 m Freestyle Relay C1-D1,Gold,Swimming,1980,Poland,POL,UNKNOWN
-Women,3x50 m Medley Relay 2-4,Gold,Swimming,1980,Poland,POL,UNKNOWN
-Women,3x100 m Medley Relay CP D,Gold,Swimming,1980,Netherlands,NED,UNKNOWN
+Women,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1980,United States of America,USA,United States of America
+Women,3x100 m Freestyle Relay C1-D1,Gold,Swimming,1980,Poland,POL,Poland
+Women,3x50 m Medley Relay 2-4,Gold,Swimming,1980,Poland,POL,Poland
+Women,3x100 m Medley Relay CP D,Gold,Swimming,1980,Netherlands,NED,Netherlands
 Men,4x25 m Individual Medley 3,Gold,Swimming,1980,Poland,POL,PAWLOWSKI Arkadiusz
 Men,4x50 m Individual Medley A,Gold,Swimming,1980,Canada,CAN,MCISAAC Timothy
 Men,4x50 m Individual Medley B,Gold,Swimming,1980,United States of America,USA,WINGER Dean
@@ -3533,12 +3533,12 @@ Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Israel,ISR,AGMON Assaf
 Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Israel,ISR,BERGMAN Uri
 Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Israel,ISR,PINTO Shlomo
 Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Israel,ISR,WANGER Joseph
-Men,4x100 m Freestyle Relay A-B,Gold,Swimming,1980,United States of America,USA,UNKNOWN
-Men,4x100 m Freestyle Relay C-D,Gold,Swimming,1980,FR Germany,FRG,UNKNOWN
-Men,4x100 m Medley Relay A-B,Gold,Swimming,1980,United States of America,USA,UNKNOWN
-Men,4x100 m Medley Relay C,Gold,Swimming,1980,Great Britain,GBR,UNKNOWN
-Men,4x100 m Medley Relay D,Gold,Swimming,1980,FR Germany,FRG,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Gold,Swimming,1980,Sweden,SWE,UNKNOWN
+Men,4x100 m Freestyle Relay A-B,Gold,Swimming,1980,United States of America,USA,United States of America
+Men,4x100 m Freestyle Relay C-D,Gold,Swimming,1980,FR Germany,FRG,FR Germany
+Men,4x100 m Medley Relay A-B,Gold,Swimming,1980,United States of America,USA,United States of America
+Men,4x100 m Medley Relay C,Gold,Swimming,1980,Great Britain,GBR,Great Britain
+Men,4x100 m Medley Relay D,Gold,Swimming,1980,FR Germany,FRG,FR Germany
+Men,4x100 m Medley Relay 1A-6,Gold,Swimming,1980,Sweden,SWE,Sweden
 Women,4x25 m Individual Medley 3,Gold,Swimming,1980,Sweden,SWE,LUNDBORG Monika
 Women,4x50 m Individual Medley A,Gold,Swimming,1980,Canada,CAN,MICHEL Yvette
 Women,4x50 m Individual Medley B,Gold,Swimming,1980,United States of America,USA,ZORN Trischa
@@ -3550,11 +3550,11 @@ Women,4x50 m Individual Medley 5,Gold,Swimming,1980,FR Germany,FRG,SWANEPOEL C.
 Women,4x50 m Individual Medley 6,Gold,Swimming,1980,Poland,POL,OGORZELSKA Agnieszka
 Women,4x100 m Individual Medley A,Gold,Swimming,1980,Canada,CAN,KILPATRICK Kim
 Women,4x100 m Individual Medley B,Gold,Swimming,1980,United States of America,USA,ZORN Trischa
-Women,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Great Britain,GBR,UNKNOWN
-Women,4x100 m Freestyle Relay A-B,Gold,Swimming,1980,United States of America,USA,UNKNOWN
-Women,4x100 m Freestyle Relay C-D,Gold,Swimming,1980,Canada,CAN,UNKNOWN
-Women,4x100 m Medley Relay A-B,Gold,Swimming,1980,United States of America,USA,UNKNOWN
-Women,4x100 m Medley Relay 1A-6,Gold,Swimming,1980,Poland,POL,UNKNOWN
+Women,4x50 m Freestyle Relay 2-6,Gold,Swimming,1980,Great Britain,GBR,Great Britain
+Women,4x100 m Freestyle Relay A-B,Gold,Swimming,1980,United States of America,USA,United States of America
+Women,4x100 m Freestyle Relay C-D,Gold,Swimming,1980,Canada,CAN,Canada
+Women,4x100 m Medley Relay A-B,Gold,Swimming,1980,United States of America,USA,United States of America
+Women,4x100 m Medley Relay 1A-6,Gold,Swimming,1980,Poland,POL,Poland
 Men,25 m Freestyle 1A,Gold,Swimming,1984,Great Britain,GBR,KENNY Mike
 Men,25 m Freestyle 1B,Gold,Swimming,1984,Great Britain,GBR,CAIRNS Kenneth
 Men,25 m Freestyle 1C,Gold,Swimming,1984,Italy,ITA,PANCALLI Luca
@@ -3727,8 +3727,8 @@ Men,200 m Individual Medley L6,Gold,Swimming,1984,Hungary,HUN,JESZENSZKY Attila
 Men,400 m Individual Medley B1,Gold,Swimming,1984,Canada,CAN,MCISAAC Timothy
 Men,400 m Individual Medley B2,Gold,Swimming,1984,United States of America,USA,MORGAN John
 Men,400 m Individual Medley B3,Gold,Swimming,1984,Canada,CAN,EDGSON Michael
-Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1984,FR Germany,FRG,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Gold,Swimming,1984,Israel,ISR,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1984,FR Germany,FRG,FR Germany
+Men,3x50 m Medley Relay 2-4,Gold,Swimming,1984,Israel,ISR,Israel
 Women,25 m Freestyle 1B,Gold,Swimming,1984,Canada,CAN,GUSTAFSON M.
 Women,25 m Freestyle 1C,Gold,Swimming,1984,Sweden,SWE,ERIKSSON Kerstin
 Women,25 m Freestyle C2,Gold,Swimming,1984,Great Britain,GBR,WISCOMBE Diane
@@ -3872,39 +3872,39 @@ Women,200 m Individual Medley L6,Gold,Swimming,1984,Spain,ESP,AGUILERA Manuela
 Women,400 m Individual Medley B1,Gold,Swimming,1984,Canada,CAN,ROSSI Andrea
 Women,400 m Individual Medley B2,Gold,Swimming,1984,United States of America,USA,ZORN Trischa
 Women,400 m Individual Medley B3,Gold,Swimming,1984,United States of America,USA,SCHMITT Cathy
-Women,3x50 m Medley Relay 2-4,Gold,Swimming,1984,Great Britain,GBR,UNKNOWN
+Women,3x50 m Medley Relay 2-4,Gold,Swimming,1984,Great Britain,GBR,Great Britain
 Men,4x25 m Individual Medley 2,Gold,Swimming,1984,Poland,POL,SZPOJNAROWICZ Marek
 Men,4x25 m Individual Medley 3,Gold,Swimming,1984,Poland,POL,PAWLOWSKI Arkadiusz
 Men,4x50 m Individual Medley 4,Gold,Swimming,1984,Sweden,SWE,OLSSON Anders
 Men,4x50 m Individual Medley 5,Gold,Swimming,1984,France,FRA,BETEGA G.
 Men,4x50 m Individual Medley 6,Gold,Swimming,1984,Canada,CAN,HAINEY Tomas
-Men,4x50 m Freestyle Relay A1-A9,Gold,Swimming,1984,Yugoslavia,YUG,UNKNOWN
-Men,4x50 m Freestyle Relay C1-C8,Gold,Swimming,1984,Great Britain,GBR,UNKNOWN
-Men,4x50 m Freestyle Relay L1-L6,Gold,Swimming,1984,Spain,ESP,UNKNOWN
-Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1984,Poland,POL,UNKNOWN
-Men,4x100 m Freestyle Relay A1-A9,Gold,Swimming,1984,FR Germany,FRG,UNKNOWN
-Men,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1984,United States of America,USA,UNKNOWN
-Men,4x50 m Medley Relay A1-A9,Gold,Swimming,1984,FR Germany,FRG,UNKNOWN
+Men,4x50 m Freestyle Relay A1-A9,Gold,Swimming,1984,Yugoslavia,YUG,Yugoslavia
+Men,4x50 m Freestyle Relay C1-C8,Gold,Swimming,1984,Great Britain,GBR,Great Britain
+Men,4x50 m Freestyle Relay L1-L6,Gold,Swimming,1984,Spain,ESP,Spain
+Men,4x50 m Freestyle Relay 2-6,Gold,Swimming,1984,Poland,POL,Poland
+Men,4x100 m Freestyle Relay A1-A9,Gold,Swimming,1984,FR Germany,FRG,FR Germany
+Men,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1984,United States of America,USA,United States of America
+Men,4x50 m Medley Relay A1-A9,Gold,Swimming,1984,FR Germany,FRG,FR Germany
 Men,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Hungary,HUN,JESZENSZKY Attila
 Men,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Hungary,HUN,PALINKAS Laszlo
 Men,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Hungary,HUN,STETTNER Ferenc
 Men,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Hungary,HUN,TORY Gyorgy
-Men,4x100 m Medley Relay A1-A9,Gold,Swimming,1984,Australia,AUS,UNKNOWN
-Men,4x100 m Medley Relay B1-B3,Gold,Swimming,1984,Canada,CAN,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Gold,Swimming,1984,France,FRA,UNKNOWN
+Men,4x100 m Medley Relay A1-A9,Gold,Swimming,1984,Australia,AUS,Australia
+Men,4x100 m Medley Relay B1-B3,Gold,Swimming,1984,Canada,CAN,Canada
+Men,4x100 m Medley Relay 1A-6,Gold,Swimming,1984,France,FRA,France
 Women,4x25 m Individual Medley 2,Gold,Swimming,1984,Canada,CAN,FAUCHE J.
 Women,4x25 m Individual Medley 3,Gold,Swimming,1984,Poland,POL,ADAMIK Malgozata
 Women,4x50 m Individual Medley 4,Gold,Swimming,1984,United States of America,USA,BEVARD Marcia
 Women,4x50 m Individual Medley 5,Gold,Swimming,1984,France,FRA,DELORME P.
 Women,4x50 m Individual Medley 6,Gold,Swimming,1984,Brazil,BRA,MATOS Maria Jussara
-Women,4x50 m Freestyle Relay C1-C8,Gold,Swimming,1984,Canada,CAN,UNKNOWN
-Women,4x50 m Freestyle Relay L1-L6,Gold,Swimming,1984,Spain,ESP,UNKNOWN
-Women,4x50 m Freestyle Relay 2-6,Gold,Swimming,1984,France,FRA,UNKNOWN
-Women,4x100 m Freestyle Relay A1-A9,Gold,Swimming,1984,Australia,AUS,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1984,Sweden,SWE,UNKNOWN
-Women,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Spain,ESP,UNKNOWN
-Women,4x100 m Medley Relay A1-A9,Gold,Swimming,1984,Australia,AUS,UNKNOWN
-Women,4x100 m Medley Relay B1-B3,Gold,Swimming,1984,United States of America,USA,UNKNOWN
+Women,4x50 m Freestyle Relay C1-C8,Gold,Swimming,1984,Canada,CAN,Canada
+Women,4x50 m Freestyle Relay L1-L6,Gold,Swimming,1984,Spain,ESP,Spain
+Women,4x50 m Freestyle Relay 2-6,Gold,Swimming,1984,France,FRA,France
+Women,4x100 m Freestyle Relay A1-A9,Gold,Swimming,1984,Australia,AUS,Australia
+Women,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1984,Sweden,SWE,Sweden
+Women,4x50 m Medley Relay L1-L6,Gold,Swimming,1984,Spain,ESP,Spain
+Women,4x100 m Medley Relay A1-A9,Gold,Swimming,1984,Australia,AUS,Australia
+Women,4x100 m Medley Relay B1-B3,Gold,Swimming,1984,United States of America,USA,United States of America
 Men,50 m Freestyle 1A,Gold,Swimming,1988,Great Britain,GBR,KENNY Mike
 Men,50 m Freestyle 1B,Gold,Swimming,1988,United States of America,USA,THOMPSON James
 Men,50 m Freestyle 1C,Gold,Swimming,1988,Italy,ITA,PANCALLI Luca
@@ -4062,8 +4062,8 @@ Men,200 m Individual Medley 5,Gold,Swimming,1988,Mexico,MEX,GALINDO Moises
 Men,200 m Individual Medley 6,Gold,Swimming,1988,Spain,ESP,LEARDY Luis
 Men,400 m Individual Medley B2,Gold,Swimming,1988,Sweden,SWE,ANDERSSON Per
 Men,400 m Individual Medley B3,Gold,Swimming,1988,Canada,CAN,EDGSON Michael
-Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1988,United States of America,USA,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Gold,Swimming,1988,United States of America,USA,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Gold,Swimming,1988,United States of America,USA,United States of America
+Men,3x50 m Medley Relay 2-4,Gold,Swimming,1988,United States of America,USA,United States of America
 Women,50 m Freestyle B1,Gold,Swimming,1988,Great Britain,GBR,BURTON Janice
 Women,50 m Freestyle B2,Gold,Swimming,1988,United States of America,USA,ZORN Trischa
 Women,50 m Freestyle B3,Gold,Swimming,1988,United States of America,USA,BRANDEWIE Debra
@@ -4151,25 +4151,25 @@ Women,200 m Individual Medley L6,Gold,Swimming,1988,FR Germany,FRG,HENGST Claudi
 Women,200 m Individual Medley 6,Gold,Swimming,1988,FR Germany,FRG,KOPP Heidi
 Women,400 m Individual Medley B2,Gold,Swimming,1988,United States of America,USA,ZORN Trischa
 Women,400 m Individual Medley B3,Gold,Swimming,1988,United States of America,USA,BRANDEWIE Debra
-Men,4x50 m Freestyle Relay A1-A8,Gold,Swimming,1988,France,FRA,UNKNOWN
-Men,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1988,Canada,CAN,UNKNOWN
+Men,4x50 m Freestyle Relay A1-A8,Gold,Swimming,1988,France,FRA,France
+Men,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1988,Canada,CAN,Canada
 Men,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,MORETON David
 Men,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,NOBLE Paul
 Men,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,WOODS Marc
 Men,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,ALDOUS Peter
-Men,4x50 m Medley Relay A1-A8,Gold,Swimming,1988,France,FRA,UNKNOWN
-Men,4x100 m Medley Relay B1-B3,Gold,Swimming,1988,Canada,CAN,UNKNOWN
+Men,4x50 m Medley Relay A1-A8,Gold,Swimming,1988,France,FRA,France
+Men,4x100 m Medley Relay B1-B3,Gold,Swimming,1988,Canada,CAN,Canada
 Men,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,MORETON David
 Men,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,NOBLE Paul
 Men,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,WOODS Marc
 Men,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,ALDOUS Peter
-Men,4x100 m Medley Relay T/P open,Gold,Swimming,1988,Spain,ESP,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1988,United States of America,USA,UNKNOWN
+Men,4x100 m Medley Relay T/P open,Gold,Swimming,1988,Spain,ESP,Spain
+Women,4x100 m Freestyle Relay B1-B3,Gold,Swimming,1988,United States of America,USA,United States of America
 Women,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,BARR Dianne
 Women,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,ROUND Joanne
 Women,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,WALTERS Linda
 Women,4x100 m Freestyle Relay A-L,Gold,Swimming,1988,Great Britain,GBR,YOUNG Thelma
-Women,4x100 m Medley Relay B1-B3,Gold,Swimming,1988,United States of America,USA,UNKNOWN
+Women,4x100 m Medley Relay B1-B3,Gold,Swimming,1988,United States of America,USA,United States of America
 Women,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,BARR Dianne
 Women,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,ROUND Joanne
 Women,4x100 m Medley Relay A-L,Gold,Swimming,1988,Great Britain,GBR,WALTERS Linda
@@ -5556,12 +5556,12 @@ Women,Singles L4,Gold,Table Tennis,1984,Belgium,BEL,BORRE Ingrid
 Women,Singles L5,Gold,Table Tennis,1984,Denmark,DEN,BAERTELSEN Marianne
 Women,Open CL,Gold,Table Tennis,1984,Denmark,DEN,BAERTELSEN Marianne
 Women,Open 1B-4,Gold,Table Tennis,1984,FR Germany,FRG,LAMSBACH Ruth
-Men,Teams 2,Gold,Table Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 3,Gold,Table Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 4,Gold,Table Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 1A,Gold,Table Tennis,1984,Finland,FIN,UNKNOWN
-Men,Teams 1B,Gold,Table Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 1C,Gold,Table Tennis,1984,FR Germany,FRG,UNKNOWN
+Men,Teams 2,Gold,Table Tennis,1984,Austria,AUT,Austria
+Men,Teams 3,Gold,Table Tennis,1984,Austria,AUT,Austria
+Men,Teams 4,Gold,Table Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 1A,Gold,Table Tennis,1984,Finland,FIN,Finland
+Men,Teams 1B,Gold,Table Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 1C,Gold,Table Tennis,1984,FR Germany,FRG,FR Germany
 Men,Teams CP2-4,Gold,Table Tennis,1984,Sweden,SWE,ANDERSSON Jorgen
 Men,Teams CP2-4,Gold,Table Tennis,1984,Sweden,SWE,GILLERAS Tommy
 Men,Teams CP2-4,Gold,Table Tennis,1984,Sweden,SWE,HANSEN Olle
@@ -5575,11 +5575,11 @@ Men,Teams L4,Gold,Table Tennis,1984,FR Germany,FRG,TOLLWERTH Dieter
 Men,Teams L5,Gold,Table Tennis,1984,FR Germany,FRG,BECK Rudolf
 Men,Teams L5,Gold,Table Tennis,1984,FR Germany,FRG,HULLERUM Peter
 Men,Teams L5,Gold,Table Tennis,1984,FR Germany,FRG,KOLLER Manfred
-Women,Teams 2,Gold,Table Tennis,1984,Austria,AUT,UNKNOWN
+Women,Teams 2,Gold,Table Tennis,1984,Austria,AUT,Austria
 Women,Teams 4,Gold,Table Tennis,1984,Switzerland,SUI,BLANC Jacqueline
 Women,Teams 4,Gold,Table Tennis,1984,Switzerland,SUI,METTLER-KIENER Elisabeth
 Women,Teams 4,Gold,Table Tennis,1984,Switzerland,SUI,ZAUGG Rosa
-Women,Teams 1A-C,Gold,Table Tennis,1984,Great Britain,GBR,UNKNOWN
+Women,Teams 1A-C,Gold,Table Tennis,1984,Great Britain,GBR,Great Britain
 Men,Singles 2,Gold,Table Tennis,1988,France,FRA,PEETERS Michel
 Men,Singles 3,Gold,Table Tennis,1988,Austria,AUT,STARL Peter
 Men,Singles 4,Gold,Table Tennis,1988,FR Germany,FRG,KREIDEL Thomas
@@ -5603,13 +5603,13 @@ Women,Singles 2-4,Gold,Table Tennis,1988,United States of America,USA,JOHNSON Je
 Women,Singles TT6,Gold,Table Tennis,1988,France,FRA,DARVAND Bernadette
 Women,Singles TT7,Gold,Table Tennis,1988,China,CHN,HUA Guiyun
 Women,Singles TT open,Gold,Table Tennis,1988,China,CHN,ZHANG Xiaoling
-Men,Teams 2,Gold,Table Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 3,Gold,Table Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 4,Gold,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 1A,Gold,Table Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 1B,Gold,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 1C,Gold,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams C5-C8,Gold,Table Tennis,1988,Sweden,SWE,UNKNOWN
+Men,Teams 2,Gold,Table Tennis,1988,Austria,AUT,Austria
+Men,Teams 3,Gold,Table Tennis,1988,Korea,KOR,Korea
+Men,Teams 4,Gold,Table Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 1A,Gold,Table Tennis,1988,Korea,KOR,Korea
+Men,Teams 1B,Gold,Table Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 1C,Gold,Table Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams C5-C8,Gold,Table Tennis,1988,Sweden,SWE,Sweden
 Men,Teams TT2,Gold,Table Tennis,1988,France,FRA,GAUDUCHEAU Michel
 Men,Teams TT2,Gold,Table Tennis,1988,France,FRA,TISSERANT Guy
 Men,Teams TT5,Gold,Table Tennis,1988,FR Germany,FRG,HORSCH Wolfgang
@@ -5620,8 +5620,8 @@ Men,Teams TT7,Gold,Table Tennis,1988,FR Germany,FRG,KOLLER Manfred
 Men,Teams TT7,Gold,Table Tennis,1988,FR Germany,FRG,VAHLE Markus
 Women,Teams 2,Gold,Table Tennis,1988,Switzerland,SUI,DROUX Christiane
 Women,Teams 2,Gold,Table Tennis,1988,Switzerland,SUI,METTLER-KIENER Elisabeth
-Women,Teams 4,Gold,Table Tennis,1988,United States of America,USA,UNKNOWN
-Women,Teams TT6,Gold,Table Tennis,1988,China,CHN,UNKNOWN
+Women,Teams 4,Gold,Table Tennis,1988,United States of America,USA,United States of America
+Women,Teams TT6,Gold,Table Tennis,1988,China,CHN,China
 Men,Singles 1,Gold,Table Tennis,1992,Finland,FIN,LAUNONEN Matti
 Men,Singles 2,Gold,Table Tennis,1992,Austria,AUT,HAJEK Rudolf
 Men,Singles 3,Gold,Table Tennis,1992,France,FRA,PEETERS Michel
@@ -6010,12 +6010,12 @@ Women,Singles L4,Gold,Wheelchair Tennis,1984,Belgium,BEL,BORRE Ingrid
 Women,Singles L5,Gold,Wheelchair Tennis,1984,Denmark,DEN,BAERTELSEN Marianne
 Women,Open CL,Gold,Wheelchair Tennis,1984,Denmark,DEN,BAERTELSEN Marianne
 Women,Open 1B-4,Gold,Wheelchair Tennis,1984,FR Germany,FRG,LAMSBACH Ruth
-Men,Teams 2,Gold,Wheelchair Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 3,Gold,Wheelchair Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 4,Gold,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 1A,Gold,Wheelchair Tennis,1984,Finland,FIN,UNKNOWN
-Men,Teams 1B,Gold,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 1C,Gold,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
+Men,Teams 2,Gold,Wheelchair Tennis,1984,Austria,AUT,Austria
+Men,Teams 3,Gold,Wheelchair Tennis,1984,Austria,AUT,Austria
+Men,Teams 4,Gold,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 1A,Gold,Wheelchair Tennis,1984,Finland,FIN,Finland
+Men,Teams 1B,Gold,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 1C,Gold,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
 Men,Teams CP2-4,Gold,Wheelchair Tennis,1984,Sweden,SWE,ANDERSSON Jorgen
 Men,Teams CP2-4,Gold,Wheelchair Tennis,1984,Sweden,SWE,GILLERAS Tommy
 Men,Teams CP2-4,Gold,Wheelchair Tennis,1984,Sweden,SWE,HANSEN Olle
@@ -6029,11 +6029,11 @@ Men,Teams L4,Gold,Wheelchair Tennis,1984,FR Germany,FRG,TOLLWERTH Dieter
 Men,Teams L5,Gold,Wheelchair Tennis,1984,FR Germany,FRG,BECK Rudolf
 Men,Teams L5,Gold,Wheelchair Tennis,1984,FR Germany,FRG,HULLERUM Peter
 Men,Teams L5,Gold,Wheelchair Tennis,1984,FR Germany,FRG,KOLLER Manfred
-Women,Teams 2,Gold,Wheelchair Tennis,1984,Austria,AUT,UNKNOWN
+Women,Teams 2,Gold,Wheelchair Tennis,1984,Austria,AUT,Austria
 Women,Teams 4,Gold,Wheelchair Tennis,1984,Switzerland,SUI,BLANC Jacqueline
 Women,Teams 4,Gold,Wheelchair Tennis,1984,Switzerland,SUI,METTLER-KIENER Elisabeth
 Women,Teams 4,Gold,Wheelchair Tennis,1984,Switzerland,SUI,ZAUGG Rosa
-Women,Teams 1A-C,Gold,Wheelchair Tennis,1984,Great Britain,GBR,UNKNOWN
+Women,Teams 1A-C,Gold,Wheelchair Tennis,1984,Great Britain,GBR,Great Britain
 Men,Singles 2,Gold,Wheelchair Tennis,1988,France,FRA,PEETERS Michel
 Men,Singles 3,Gold,Wheelchair Tennis,1988,Austria,AUT,STARL Peter
 Men,Singles 4,Gold,Wheelchair Tennis,1988,FR Germany,FRG,KREIDEL Thomas
@@ -6057,13 +6057,13 @@ Women,Singles 2-4,Gold,Wheelchair Tennis,1988,United States of America,USA,JOHNS
 Women,Singles TT6,Gold,Wheelchair Tennis,1988,France,FRA,DARVAND Bernadette
 Women,Singles TT7,Gold,Wheelchair Tennis,1988,China,CHN,HUA Guiyun
 Women,Singles TT open,Gold,Wheelchair Tennis,1988,China,CHN,ZHANG Xiaoling
-Men,Teams 2,Gold,Wheelchair Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 3,Gold,Wheelchair Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 4,Gold,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 1A,Gold,Wheelchair Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 1B,Gold,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 1C,Gold,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams C5-C8,Gold,Wheelchair Tennis,1988,Sweden,SWE,UNKNOWN
+Men,Teams 2,Gold,Wheelchair Tennis,1988,Austria,AUT,Austria
+Men,Teams 3,Gold,Wheelchair Tennis,1988,Korea,KOR,Korea
+Men,Teams 4,Gold,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 1A,Gold,Wheelchair Tennis,1988,Korea,KOR,Korea
+Men,Teams 1B,Gold,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 1C,Gold,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams C5-C8,Gold,Wheelchair Tennis,1988,Sweden,SWE,Sweden
 Men,Teams TT2,Gold,Wheelchair Tennis,1988,France,FRA,GAUDUCHEAU Michel
 Men,Teams TT2,Gold,Wheelchair Tennis,1988,France,FRA,TISSERANT Guy
 Men,Teams TT5,Gold,Wheelchair Tennis,1988,FR Germany,FRG,HORSCH Wolfgang
@@ -6074,8 +6074,8 @@ Men,Teams TT7,Gold,Wheelchair Tennis,1988,FR Germany,FRG,KOLLER Manfred
 Men,Teams TT7,Gold,Wheelchair Tennis,1988,FR Germany,FRG,VAHLE Markus
 Women,Teams 2,Gold,Wheelchair Tennis,1988,Switzerland,SUI,DROUX Christiane
 Women,Teams 2,Gold,Wheelchair Tennis,1988,Switzerland,SUI,METTLER-KIENER Elisabeth
-Women,Teams 4,Gold,Wheelchair Tennis,1988,United States of America,USA,UNKNOWN
-Women,Teams TT6,Gold,Wheelchair Tennis,1988,China,CHN,UNKNOWN
+Women,Teams 4,Gold,Wheelchair Tennis,1988,United States of America,USA,United States of America
+Women,Teams TT6,Gold,Wheelchair Tennis,1988,China,CHN,China
 Men,Singles 1,Gold,Wheelchair Tennis,1992,Finland,FIN,LAUNONEN Matti
 Men,Singles 2,Gold,Wheelchair Tennis,1992,Austria,AUT,HAJEK Rudolf
 Men,Singles 3,Gold,Wheelchair Tennis,1992,France,FRA,PEETERS Michel
@@ -6403,7 +6403,7 @@ Men,PT4,Gold,Triathlon,2016,Germany,GER,SCHULZ Martin
 Women,PT2,Gold,Triathlon,2016,United States of America,USA,SEELY Allysa
 Women,PT4,Gold,Triathlon,2016,United States of America,USA,NORMAN Grace
 Women,PT5,Gold,Triathlon,2016,Australia,AUS,KELLY Katie
-Men,Sitting Volleyball,Gold,Volleyball,1980,Netherlands,NED,UNKNOWN
+Men,Sitting Volleyball,Gold,Volleyball,1980,Netherlands,NED,Netherlands
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,ATZMON Nitzan
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,BARBALAT Moshe
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,DANZIGER Aharon
@@ -6413,7 +6413,7 @@ Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,KARSH Zvi
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,PAZI Yigal
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,UNGER Eliyahu
 Men,Standing Volleyball,Gold,Volleyball,1980,Israel,ISR,ZAMIR Hagai
-Men,Sitting Volleyball,Gold,Volleyball,1984,Netherlands,NED,UNKNOWN
+Men,Sitting Volleyball,Gold,Volleyball,1984,Netherlands,NED,Netherlands
 Men,Standing Volleyball,Gold,Volleyball,1984,Israel,ISR,ATZMON Nitzan
 Men,Standing Volleyball,Gold,Volleyball,1984,Israel,ISR,BARBALAT Moshe
 Men,Standing Volleyball,Gold,Volleyball,1984,Israel,ISR,BORENSHTEIN Shlomo
@@ -6620,7 +6620,7 @@ Men,Short Metric Round Tetraplegic,Silver,Archery,1980,Australia,AUS,TREWHELLA I
 Men,Advanced Metric Round Paraplegic,Silver,Archery,1980,Austria,AUT,PETSCHNIG M.
 Women,Double FITA Round Amputee,Silver,Archery,1980,Poland,POL,KWIECINSKA Ewa
 Women,Double FITA Round Paraplegic,Silver,Archery,1980,Finland,FIN,KORVA Elli
-Women,Double FITA Round Novice Paraplegic,Silver,Archery,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Double FITA Round Novice Paraplegic,Silver,Archery,1980,UNKNOWN,UNKNOWN,-
 Women,Short Metric Round Paraplegic,Silver,Archery,1980,Great Britain,GBR,WILLIAMSON Valerie
 Women,Advanced Metric Round Paraplegic,Silver,Archery,1980,New Zealand,NZL,RIMMER Eve M.
 Men,Double FITA Round Team Amputee,Silver,Archery,1980,Sweden,SWE,APPELKVIST Sune
@@ -6628,26 +6628,26 @@ Men,Double FITA Round Team Amputee,Silver,Archery,1980,Sweden,SWE,BABKIN Nicolai
 Men,Double FITA Round Team Amputee,Silver,Archery,1980,Sweden,SWE,CARSSON Jan O.
 Men,Double FITA Round Team Paraplegic,Silver,Archery,1980,Great Britain,GBR,BUCHANAN J.CORRIE Alan
 Men,Double FITA Round Team Paraplegic,Silver,Archery,1980,Great Britain,GBR,SMITH I.
-Men,Double FITA Round C1-C2,Silver,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,"Double FITA Round C3,C6",Silver,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Double FITA Round C1-C2,Silver,Archery,1984,UNKNOWN,UNKNOWN,-
+Men,"Double FITA Round C3,C6",Silver,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,Double FITA Round Div. 3,Silver,Archery,1984,Belgium,BEL,KUYS Alfons
 Men,Double FITA Round Integrated,Silver,Archery,1984,Spain,ESP,REBOLLO Antonio
 Men,Double FITA Round Paraplegic,Silver,Archery,1984,Netherlands,NED,WEIJERS J.
 Men,Double FITA Round Tetraplegic,Silver,Archery,1984,Netherlands,NED,KONEMAN K.
 Men,Double Short Metric Round Paraplegic,Silver,Archery,1984,Korea,KOR,KIM H. S.
-Men,Double Short Metric Round Tetraplegic,Silver,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Double Short Metric Round Tetraplegic,Silver,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,Double Advanced Metric Round Paraplegic,Silver,Archery,1984,France,FRA,BOUCHITE C.
 Men,Double Advanced Metric Round Tetraplegic,Silver,Archery,1984,Australia,AUS,TREWHELLA Ian
 Women,Double FITA Round Div. 3,Silver,Archery,1984,Great Britain,GBR,LEAPER Beverley
 Women,Double FITA Round Integrated,Silver,Archery,1984,Belgium,BEL,LACOMBLEZ Martine
 Women,Double FITA Round Paraplegic,Silver,Archery,1984,Japan,JPN,SUZUKI Hifumi
 Women,Double Short Metric Round Paraplegic,Silver,Archery,1984,Austria,AUT,SCHWEIZER Rosa
-Men,Double FITA Round Team 1A-6,Silver,Archery,1984,Netherlands,NED,UNKNOWN
+Men,Double FITA Round Team 1A-6,Silver,Archery,1984,Netherlands,NED,Netherlands
 Men,Double FITA Round Team Integrated,Silver,Archery,1984,France,FRA,DUCRET Rene
 Men,Double FITA Round Team Integrated,Silver,Archery,1984,France,FRA,HAMART George
 Men,Double FITA Round Team Integrated,Silver,Archery,1984,France,FRA,LELON Daniel
-Men,Short Metric Round Team 1A-6,Silver,Archery,1984,Australia,AUS,UNKNOWN
-Men,Double Advanced Metric Round Team 1A-6,Silver,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Short Metric Round Team 1A-6,Silver,Archery,1984,Australia,AUS,Australia
+Men,Double Advanced Metric Round Team 1A-6,Silver,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,"Single FITA Round C7,C8",Silver,Archery,1988,Japan,JPN,TASHIRO Kiyotaka
 Men,Double FITA Round Open,Silver,Archery,1988,Belgium,BEL,SCALISI Carmelo
 Men,Double FITA Round 2-6,Silver,Archery,1988,Korea,KOR,KIM Hee Sook
@@ -7002,7 +7002,7 @@ Men,4x60 m 1A-1C,Silver,Athletics,1980,United States of America,USA,LEWELLYN J.
 Men,4x60 m 1A-1C,Silver,Athletics,1980,United States of America,USA,SLUPE G.
 Men,4x60 m 1A-1C,Silver,Athletics,1980,United States of America,USA,THORN J.
 Men,4x60 m 1A-1C,Silver,Athletics,1980,United States of America,USA,WALLEN D.
-Men,4x80 m CP D,Silver,Athletics,1980,Belgium,BEL,UNKNOWN
+Men,4x80 m CP D,Silver,Athletics,1980,Belgium,BEL,Belgium
 Men,4x100 m 2-5,Silver,Athletics,1980,Mexico,MEX,CORONA Rene
 Men,4x100 m 2-5,Silver,Athletics,1980,Mexico,MEX,MARTINEZ Uriel
 Men,4x100 m 2-5,Silver,Athletics,1980,Mexico,MEX,ROJAS Ruben
@@ -7437,7 +7437,7 @@ Women,Pentathlon 3,Silver,Athletics,1984,FR Germany,FRG,HAGENLOCHER Waltraud
 Women,Pentathlon 4,Silver,Athletics,1984,Poland,POL,HARASIMCZUK Lilia
 Women,Pentathlon 5,Silver,Athletics,1984,FR Germany,FRG,MUNKER Elka
 Women,Pentathlon 6,Silver,Athletics,1984,Israel,ISR,RUBIN-ROSENBAUM Zipora
-Mixed,3x60 m C2-3,Silver,Athletics,1984,Canada,CAN,UNKNOWN
+Mixed,3x60 m C2-3,Silver,Athletics,1984,Canada,CAN,Canada
 Men,400 m B2,Silver,Athletics,1984,Yugoslavia,YUG,ODZAKOVIC Ramo
 Men,High Jump A2,Silver,Athletics,1984,Netherlands,NED,BOTTEMANNE Bert
 Men,High Jump A3,Silver,Athletics,1984,Burma,BIR,AUNG Gyi
@@ -7450,17 +7450,17 @@ Men,4x100 m 1A-1C,Silver,Athletics,1984,Switzerland,SUI,KAISER Werner
 Men,4x100 m 1A-1C,Silver,Athletics,1984,Switzerland,SUI,KUESCHALL Rainer
 Men,4x100 m 1A-1C,Silver,Athletics,1984,Switzerland,SUI,SCHMID Peter
 Men,4x100 m 1A-1C,Silver,Athletics,1984,Switzerland,SUI,WALTER Eric
-Men,4x100 m A4-9,Silver,Athletics,1984,Poland,POL,UNKNOWN
-Men,4x100 m C4,Silver,Athletics,1984,Great Britain,GBR,UNKNOWN
-Men,4x100 m C7-8,Silver,Athletics,1984,Portugal,POR,UNKNOWN
-Men,4x100 m 2-5,Silver,Athletics,1984,United States of America,USA,UNKNOWN
-Men,4x200 m 1A-1C,Silver,Athletics,1984,Australia,AUS,UNKNOWN
-Men,4x200 m 2-5,Silver,Athletics,1984,Canada,CAN,UNKNOWN
-Men,4x400 m A4-9,Silver,Athletics,1984,Australia,AUS,UNKNOWN
-Men,4x400 m 2-5,Silver,Athletics,1984,Canada,CAN,UNKNOWN
-Women,4x100 m 2-5,Silver,Athletics,1984,United States of America,USA,UNKNOWN
-Women,4x200 m 2-5,Silver,Athletics,1984,Hong Kong,HKG,UNKNOWN
-Women,4x400 m 2-5,Silver,Athletics,1984,United States of America,USA,UNKNOWN
+Men,4x100 m A4-9,Silver,Athletics,1984,Poland,POL,Poland
+Men,4x100 m C4,Silver,Athletics,1984,Great Britain,GBR,Great Britain
+Men,4x100 m C7-8,Silver,Athletics,1984,Portugal,POR,Portugal
+Men,4x100 m 2-5,Silver,Athletics,1984,United States of America,USA,United States of America
+Men,4x200 m 1A-1C,Silver,Athletics,1984,Australia,AUS,Australia
+Men,4x200 m 2-5,Silver,Athletics,1984,Canada,CAN,Canada
+Men,4x400 m A4-9,Silver,Athletics,1984,Australia,AUS,Australia
+Men,4x400 m 2-5,Silver,Athletics,1984,Canada,CAN,Canada
+Women,4x100 m 2-5,Silver,Athletics,1984,United States of America,USA,United States of America
+Women,4x200 m 2-5,Silver,Athletics,1984,Hong Kong,HKG,Hong Kong
+Women,4x400 m 2-5,Silver,Athletics,1984,United States of America,USA,United States of America
 Men,100 m 1A,Silver,Athletics,1988,United States of America,USA,DODSON Bart
 Men,100 m 1B,Silver,Athletics,1988,Australia,AUS,VALLELONGA Vincenzo
 Men,100 m 1C,Silver,Athletics,1988,Canada,CAN,BEAUDOIN Andre
@@ -7918,7 +7918,7 @@ Men,Marathon TW2,Silver,Athletics,1992,Austria,AUT,ETZLSTORFER Christoph
 Men,Marathon TW3-4,Silver,Athletics,1992,France,FRA,ISSORAT Claude
 Men,Marathon B1,Silver,Athletics,1992,Norway,NOR,KIBUUKA Tofiri
 Men,Marathon B2,Silver,Athletics,1992,Spain,ESP,ORTIZ Jose
-Men,Marathon B3,Silver,Athletics,1992,GRONSKY Roman,TCH,SLUKA Anton
+Men,Marathon B3,Silver,Athletics,1992,Czech Republic,TCH,SLUKA Anton
 Men,High Jump B2,Silver,Athletics,1992,Spain,ESP,PRIETO Juan Carlos
 Men,High Jump B3,Silver,Athletics,1992,United States of America,USA,BLIEY Enest
 Men,High Jump J1,Silver,Athletics,1992,Switzerland,SUI,SANTSCHI Hans
@@ -8033,7 +8033,7 @@ Women,Shot Put B2,Silver,Athletics,1992,Serbia,IPP,VUKSANOVIC Nada
 Women,Shot Put C5>8,Silver,Athletics,1992,Belgium,BEL,DE SAINT Ann-Gael
 Women,Discus Throw THS2,Silver,Athletics,1992,France,FRA,DEOUWI Madeleine
 Women,Discus Throw THW4,Silver,Athletics,1992,Kuwait,KUW,AL-ROMI Adelah
-Women,Discus Throw THW5,Silver,Athletics,1992,GRONSKY Roman,TCH,JIRASKOVA Vera
+Women,Discus Throw THW5,Silver,Athletics,1992,Czech Republic,TCH,JIRASKOVA Vera
 Women,Discus Throw THW7,Silver,Athletics,1992,United States of America,USA,CARLTON Kathryne Lynne
 Women,Discus Throw B1,Silver,Athletics,1992,Germany,GER,WILLING Martina
 Women,Discus Throw B2,Silver,Athletics,1992,Australia,AUS,WILLIS Jodi
@@ -9337,10 +9337,10 @@ Women,4x400 m T53/54,Silver,Athletics,2016,Australia,AUS,BALLARD Angela
 Women,4x400 m T53/54,Silver,Athletics,2016,Australia,AUS,DAWES Christie
 Women,4x400 m T53/54,Silver,Athletics,2016,Australia,AUS,DE ROZARIO Madison
 Women,4x400 m T53/54,Silver,Athletics,2016,Australia,AUS,MOORE Jemima
-Men,Tournament,Silver,Basketball,1980,Netherlands,NED,UNKNOWN
-Women,Tournament,Silver,Basketball,1980,Israel,ISR,UNKNOWN
-Men,Tournament,Silver,Basketball,1984,Netherlands,NED,UNKNOWN
-Women,Tournament,Silver,Basketball,1984,Israel,ISR,UNKNOWN
+Men,Tournament,Silver,Basketball,1980,Netherlands,NED,Netherlands
+Women,Tournament,Silver,Basketball,1980,Israel,ISR,Israel
+Men,Tournament,Silver,Basketball,1984,Netherlands,NED,Netherlands
+Women,Tournament,Silver,Basketball,1984,Israel,ISR,Israel
 Men,Tournament,Silver,Basketball,1988,Netherlands,NED,DIJS Jan
 Men,Tournament,Silver,Basketball,1988,Netherlands,NED,KAMERLING Servaas
 Men,Tournament,Silver,Basketball,1988,Netherlands,NED,KLERKS Hubertus
@@ -9542,8 +9542,8 @@ Women,Foil Novice Individual,Silver,Fencing,1980,Netherlands,NED,DEN UYL M.
 Mixed,Foil Individual 1A,Silver,Fencing,1980,Belgium,BEL,WOUTERS Philip
 Mixed,Foil Individual 1B,Silver,Fencing,1980,Italy,ITA,PAGANELLI Bruno
 Mixed,Foil Individual 1C,Silver,Fencing,1980,Italy,ITA,LICCIARDI Aldo
-Men,Epee Team,Silver,Fencing,1980,Great Britain,GBR,UNKNOWN
-Men,Foil Team,Silver,Fencing,1980,FR Germany,FRG,UNKNOWN
+Men,Epee Team,Silver,Fencing,1980,Great Britain,GBR,Great Britain
+Men,Foil Team,Silver,Fencing,1980,FR Germany,FRG,FR Germany
 Men,Sabre Team,Silver,Fencing,1980,Great Britain,GBR,KELLY M.
 Men,Sabre Team,Silver,Fencing,1980,Great Britain,GBR,KILLEN T.
 Men,Sabre Team,Silver,Fencing,1980,Great Britain,GBR,WARDLE H.
@@ -9562,8 +9562,8 @@ Men,Sabre Individual 2-3,Silver,Fencing,1984,Italy,ITA,SCARCELLA Pierino
 Men,Sabre Individual 4-5,Silver,Fencing,1984,Israel,ISR,AHARONI Sasson
 Women,Foil Individual 2-3,Silver,Fencing,1984,Italy,ITA,BERTINI Mariella
 Women,Foil Individual 4-5,Silver,Fencing,1984,France,FRA,MEYER Sylviane
-Women,Foil Individual 1C,Silver,Fencing,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,Epee Team,Silver,Fencing,1984,FR Germany,FRG,UNKNOWN
+Women,Foil Individual 1C,Silver,Fencing,1984,UNKNOWN,UNKNOWN,-
+Men,Epee Team,Silver,Fencing,1984,FR Germany,FRG,FR Germany
 Men,Foil Team,Silver,Fencing,1984,Italy,ITA,ALFIERI Giuseppe
 Men,Foil Team,Silver,Fencing,1984,Italy,ITA,MARTELLI Giulio
 Men,Foil Team,Silver,Fencing,1984,Italy,ITA,SCARSELLA Pierino
@@ -9893,7 +9893,7 @@ Women,-73 kg,Silver,Powerlifting,2016,France,FRA,GHAZOUANI Souhad
 Women,-79 kg,Silver,Powerlifting,2016,China,CHN,XU Lili
 Women,-86 kg,Silver,Powerlifting,2016,Jordan,JOR,ALHAJAJ Tharwh Tayseer Hamdan
 Women,+86 kg,Silver,Powerlifting,2016,Poland,POL,ZIEBA Marzena
-Mixed,Wheelchair Rugby,Silver,Rugby,1996,UNKNOWN,UNKNOWN,UNKNOWN
+Mixed,Wheelchair Rugby,Silver,Rugby,1996,UNKNOWN,UNKNOWN,-
 Mixed,Wheelchair Rugby,Silver,Rugby,2000,Australia,AUS,ALMAN Bryce
 Mixed,Wheelchair Rugby,Silver,Rugby,2000,Australia,AUS,BOYLAN Brett
 Mixed,Wheelchair Rugby,Silver,Rugby,2000,Australia,AUS,CLARKE Clifford
@@ -10019,7 +10019,7 @@ Men,50 m Butterfly 5,Silver,Swimming,1980,Poland,POL,MACHOWCZYK Ryszard
 Men,100 m Butterfly A,Silver,Swimming,1980,Great Britain,GBR,MUIRHEAD James
 Men,100 m Butterfly B,Silver,Swimming,1980,Sweden,SWE,FIELDING Petter
 Men,100 m Butterfly C,Silver,Swimming,1980,Canada,CAN,COLLINS-SIMPSON G.
-Men,100 m Butterfly D,Silver,Swimming,1980,GRONSKY Roman,TCH,UNKNOWN
+Men,100 m Butterfly D,Silver,Swimming,1980,Czech Republic,TCH,GRONSKY Roman
 Men,100 m Butterfly E,Silver,Swimming,1980,Poland,POL,KOZAK Janusz
 Men,100 m Butterfly 6,Silver,Swimming,1980,FR Germany,FRG,GATTINGER G.
 Men,2x25 m Individual Medley F1,Silver,Swimming,1980,FR Germany,FRG,BRAND Andreas
@@ -10028,10 +10028,10 @@ Men,3x50 m Individual Medley C1,Silver,Swimming,1980,Netherlands,NED,VAN LAAR Wi
 Men,3x50 m Individual Medley D1,Silver,Swimming,1980,FR Germany,FRG,GORIS Wolfgang
 Men,3x50 m Individual Medley E1,Silver,Swimming,1980,Yugoslavia,YUG,MIKELIN Roko
 Men,3x50 m Individual Medley F,Silver,Swimming,1980,Israel,ISR,PERETZMAN Baruch
-Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1980,United States of America,USA,UNKNOWN
-Men,3x50 m Freestyle Relay E1-F1,Silver,Swimming,1980,France,FRA,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Silver,Swimming,1980,Israel,ISR,UNKNOWN
-Men,3x100 m Medley Relay CP D,Silver,Swimming,1980,France,FRA,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1980,United States of America,USA,United States of America
+Men,3x50 m Freestyle Relay E1-F1,Silver,Swimming,1980,France,FRA,France
+Men,3x50 m Medley Relay 2-4,Silver,Swimming,1980,Israel,ISR,Israel
+Men,3x100 m Medley Relay CP D,Silver,Swimming,1980,France,FRA,France
 Women,25 m Freestyle 1A,Silver,Swimming,1980,Mexico,MEX,CORNEJO Josefina
 Women,25 m Freestyle 1B,Silver,Swimming,1980,Argentina,ARG,LOPEZ Monica
 Women,25 m Freestyle 1C,Silver,Swimming,1980,Sweden,SWE,ERIKSSON Kerstin
@@ -10098,9 +10098,9 @@ Women,3x25 m Individual Medley 2,Silver,Swimming,1980,FR Germany,FRG,WEBER D.
 Women,2x50 m Individual Medley F1,Silver,Swimming,1980,FR Germany,FRG,SIEVERT U.
 Women,3x50 m Individual Medley C1,Silver,Swimming,1980,Netherlands,NED,SANDERS Mirjam
 Women,3x50 m Individual Medley D1,Silver,Swimming,1980,Jamaica,JAM,NEWLAND Sarah
-Women,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1980,Argentina,ARG,UNKNOWN
-Women,3x50 m Medley Relay 2-4,Silver,Swimming,1980,Great Britain,GBR,UNKNOWN
-Women,3x100 m Medley Relay CP D,Silver,Swimming,1980,United States of America,USA,UNKNOWN
+Women,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1980,Argentina,ARG,Argentina
+Women,3x50 m Medley Relay 2-4,Silver,Swimming,1980,Great Britain,GBR,Great Britain
+Women,3x100 m Medley Relay CP D,Silver,Swimming,1980,United States of America,USA,United States of America
 Men,4x25 m Individual Medley 3,Silver,Swimming,1980,Poland,POL,OWCZAREK Miroslaw
 Men,4x50 m Individual Medley A,Silver,Swimming,1980,United States of America,USA,HEGLE Scott
 Men,4x50 m Individual Medley B,Silver,Swimming,1980,Sweden,SWE,FIELDING Petter
@@ -10112,29 +10112,29 @@ Men,4x50 m Individual Medley 5,Silver,Swimming,1980,Sweden,SWE,ANDERSSON Lars-Gu
 Men,4x50 m Individual Medley 6,Silver,Swimming,1980,FR Germany,FRG,GATTINER G.
 Men,4x100 m Individual Medley A,Silver,Swimming,1980,Great Britain,GBR,MUIRHEAD James
 Men,4x100 m Individual Medley B,Silver,Swimming,1980,Sweden,SWE,BERNER Sixten
-Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1980,Poland,POL,UNKNOWN
-Men,4x100 m Freestyle Relay A-B,Silver,Swimming,1980,Sweden,SWE,UNKNOWN
-Men,4x100 m Freestyle Relay C-D,Silver,Swimming,1980,Great Britain,GBR,UNKNOWN
-Men,4x100 m Medley Relay A-B,Silver,Swimming,1980,Sweden,SWE,UNKNOWN
-Men,4x100 m Medley Relay C,Silver,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x100 m Medley Relay D,Silver,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Silver,Swimming,1980,Poland,POL,UNKNOWN
+Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1980,Poland,POL,Poland
+Men,4x100 m Freestyle Relay A-B,Silver,Swimming,1980,Sweden,SWE,Sweden
+Men,4x100 m Freestyle Relay C-D,Silver,Swimming,1980,Great Britain,GBR,Great Britain
+Men,4x100 m Medley Relay A-B,Silver,Swimming,1980,Sweden,SWE,Sweden
+Men,4x100 m Medley Relay C,Silver,Swimming,1980,UNKNOWN,UNKNOWN,-
+Men,4x100 m Medley Relay D,Silver,Swimming,1980,UNKNOWN,UNKNOWN,-
+Men,4x100 m Medley Relay 1A-6,Silver,Swimming,1980,Poland,POL,Poland
 Women,4x25 m Individual Medley 3,Silver,Swimming,1980,Great Britain,GBR,SMITH D.
 Women,4x50 m Individual Medley A,Silver,Swimming,1980,Canada,CAN,ROSSI Andrea
 Women,4x50 m Individual Medley B,Silver,Swimming,1980,United States of America,USA,AKINS Missy
-Women,4x50 m Individual Medley C,Silver,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,4x50 m Individual Medley C,Silver,Swimming,1980,UNKNOWN,UNKNOWN,-
 Women,4x50 m Individual Medley D,Silver,Swimming,1980,Canada,CAN,MITCHELL J.
 Women,4x50 m Individual Medley E,Silver,Swimming,1980,France,FRA,DURANCEAU Isabelle
 Women,4x50 m Individual Medley 4,Silver,Swimming,1980,Spain,ESP,HERRERAS Teresa
 Women,4x50 m Individual Medley 5,Silver,Swimming,1980,Poland,POL,KOZLOWSKA Malgorzata
 Women,4x50 m Individual Medley 6,Silver,Swimming,1980,Spain,ESP,JABALOYAS Pilar
-Women,4x100 m Individual Medley A,Silver,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,4x100 m Individual Medley A,Silver,Swimming,1980,UNKNOWN,UNKNOWN,-
 Women,4x100 m Individual Medley B,Silver,Swimming,1980,United States of America,USA,VAN LIERE Marie
-Women,4x50 m Freestyle Relay 2-6,Silver,Swimming,1980,Poland,POL,UNKNOWN
-Women,4x100 m Freestyle Relay A-B,Silver,Swimming,1980,Canada,CAN,UNKNOWN
-Women,4x100 m Freestyle Relay C-D,Silver,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Medley Relay A-B,Silver,Swimming,1980,Canada,CAN,UNKNOWN
-Women,4x100 m Medley Relay 1A-6,Silver,Swimming,1980,Netherlands,NED,UNKNOWN
+Women,4x50 m Freestyle Relay 2-6,Silver,Swimming,1980,Poland,POL,Poland
+Women,4x100 m Freestyle Relay A-B,Silver,Swimming,1980,Canada,CAN,Canada
+Women,4x100 m Freestyle Relay C-D,Silver,Swimming,1980,UNKNOWN,UNKNOWN,-
+Women,4x100 m Medley Relay A-B,Silver,Swimming,1980,Canada,CAN,Canada
+Women,4x100 m Medley Relay 1A-6,Silver,Swimming,1980,Netherlands,NED,Netherlands
 Men,25 m Freestyle 1A,Silver,Swimming,1984,FR Germany,FRG,TIETZE H.
 Men,25 m Freestyle 1B,Silver,Swimming,1984,United States of America,USA,GREEN S.
 Men,25 m Freestyle 1C,Silver,Swimming,1984,Poland,POL,SLECZKA Krzysztof
@@ -10300,8 +10300,8 @@ Men,200 m Individual Medley L6,Silver,Swimming,1984,Hungary,HUN,STETTNER Ferenc
 Men,400 m Individual Medley B1,Silver,Swimming,1984,Canada,CAN,HERRON Scott
 Men,400 m Individual Medley B2,Silver,Swimming,1984,Sweden,SWE,ANDERSSON Per
 Men,400 m Individual Medley B3,Silver,Swimming,1984,United States of America,USA,HATCHER Robert
-Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1984,Great Britain,GBR,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Silver,Swimming,1984,Poland,POL,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1984,Great Britain,GBR,Great Britain
+Men,3x50 m Medley Relay 2-4,Silver,Swimming,1984,Poland,POL,Poland
 Women,25 m Freestyle 1B,Silver,Swimming,1984,France,FRA,MAURY F.
 Women,25 m Freestyle 1C,Silver,Swimming,1984,Norway,NOR,KLAETH M.
 Women,25 m Freestyle C2,Silver,Swimming,1984,United States of America,USA,ANDERSON Nancy
@@ -10436,39 +10436,39 @@ Women,200 m Individual Medley L5,Silver,Swimming,1984,Netherlands,NED,HEIRBAUT P
 Women,200 m Individual Medley L6,Silver,Swimming,1984,Hungary,HUN,HOFFMAN Judit
 Women,400 m Individual Medley B1,Silver,Swimming,1984,Great Britain,GBR,BURTON Janice
 Women,400 m Individual Medley B3,Silver,Swimming,1984,Sweden,SWE,TJERNBERG Gabriella
-Women,3x50 m Medley Relay 2-4,Silver,Swimming,1984,France,FRA,UNKNOWN
+Women,3x50 m Medley Relay 2-4,Silver,Swimming,1984,France,FRA,France
 Men,4x25 m Individual Medley 2,Silver,Swimming,1984,Italy,ITA,GIUSSANI Ernesto
 Men,4x25 m Individual Medley 3,Silver,Swimming,1984,Israel,ISR,WANGER Joseph
 Men,4x50 m Individual Medley 4,Silver,Swimming,1984,Israel,ISR,PINTO Shlomo
 Men,4x50 m Individual Medley 5,Silver,Swimming,1984,Brazil,BRA,AMORIM Marcelo
 Men,4x50 m Individual Medley 6,Silver,Swimming,1984,Poland,POL,JEZIERSKI Andrzej
-Men,4x50 m Freestyle Relay A1-A9,Silver,Swimming,1984,FR Germany,FRG,UNKNOWN
-Men,4x50 m Freestyle Relay C1-C8,Silver,Swimming,1984,Austria,AUT,UNKNOWN
-Men,4x50 m Freestyle Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,UNKNOWN
+Men,4x50 m Freestyle Relay A1-A9,Silver,Swimming,1984,FR Germany,FRG,FR Germany
+Men,4x50 m Freestyle Relay C1-C8,Silver,Swimming,1984,Austria,AUT,Austria
+Men,4x50 m Freestyle Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,Great Britain
 Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Israel,ISR,AGMON Assaf
 Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Israel,ISR,BERGMAN Uri
 Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Israel,ISR,PINTO Shlomo
 Men,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Israel,ISR,WANGER Joseph
-Men,4x100 m Freestyle Relay A1-A9,Silver,Swimming,1984,Australia,AUS,UNKNOWN
-Men,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1984,Canada,CAN,UNKNOWN
-Men,4x50 m Medley Relay A1-A9,Silver,Swimming,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x50 m Medley Relay L1-L6,Silver,Swimming,1984,Spain,ESP,UNKNOWN
-Men,4x100 m Medley Relay A1-A9,Silver,Swimming,1984,Canada,CAN,UNKNOWN
-Men,4x100 m Medley Relay B1-B3,Silver,Swimming,1984,United States of America,USA,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Silver,Swimming,1984,FR Germany,FRG,UNKNOWN
+Men,4x100 m Freestyle Relay A1-A9,Silver,Swimming,1984,Australia,AUS,Australia
+Men,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1984,Canada,CAN,Canada
+Men,4x50 m Medley Relay A1-A9,Silver,Swimming,1984,UNKNOWN,UNKNOWN,-
+Men,4x50 m Medley Relay L1-L6,Silver,Swimming,1984,Spain,ESP,Spain
+Men,4x100 m Medley Relay A1-A9,Silver,Swimming,1984,Canada,CAN,Canada
+Men,4x100 m Medley Relay B1-B3,Silver,Swimming,1984,United States of America,USA,United States of America
+Men,4x100 m Medley Relay 1A-6,Silver,Swimming,1984,FR Germany,FRG,FR Germany
 Women,4x25 m Individual Medley 2,Silver,Swimming,1984,FR Germany,FRG,WEBER D.
 Women,4x25 m Individual Medley 3,Silver,Swimming,1984,Sweden,SWE,LUNDBORG Monika
 Women,4x50 m Individual Medley 4,Silver,Swimming,1984,Australia,AUS,CONNOR K.
 Women,4x50 m Individual Medley 5,Silver,Swimming,1984,Poland,POL,KOZLOWSKA Malgorzata
 Women,4x50 m Individual Medley 6,Silver,Swimming,1984,Norway,NOR,PETTERSEN H.
-Women,4x50 m Freestyle Relay C1-C8,Silver,Swimming,1984,United States of America,USA,UNKNOWN
-Women,4x50 m Freestyle Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x100 m Freestyle Relay A1-A9,Silver,Swimming,1984,United States of America,USA,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1984,United States of America,USA,UNKNOWN
-Women,4x50 m Medley Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x100 m Medley Relay A1-A9,Silver,Swimming,1984,United States of America,USA,UNKNOWN
-Women,4x100 m Medley Relay B1-B3,Silver,Swimming,1984,Sweden,SWE,UNKNOWN
+Women,4x50 m Freestyle Relay C1-C8,Silver,Swimming,1984,United States of America,USA,United States of America
+Women,4x50 m Freestyle Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x50 m Freestyle Relay 2-6,Silver,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x100 m Freestyle Relay A1-A9,Silver,Swimming,1984,United States of America,USA,United States of America
+Women,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1984,United States of America,USA,United States of America
+Women,4x50 m Medley Relay L1-L6,Silver,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x100 m Medley Relay A1-A9,Silver,Swimming,1984,United States of America,USA,United States of America
+Women,4x100 m Medley Relay B1-B3,Silver,Swimming,1984,Sweden,SWE,Sweden
 Men,50 m Freestyle 1A,Silver,Swimming,1988,Australia,AUS,TRACEY Phillip
 Men,50 m Freestyle 1B,Silver,Swimming,1988,FR Germany,FRG,HAUSLEITNER Gerhard
 Men,50 m Freestyle 1C,Silver,Swimming,1988,Poland,POL,SLECZKA Krzysztof
@@ -10626,8 +10626,8 @@ Men,200 m Individual Medley 5,Silver,Swimming,1988,France,FRA,MICOREC Bernard
 Men,200 m Individual Medley 6,Silver,Swimming,1988,Canada,CAN,HAINEY Tomas
 Men,400 m Individual Medley B2,Silver,Swimming,1988,Poland,POL,KROL Wieslaw
 Men,400 m Individual Medley B3,Silver,Swimming,1988,United States of America,USA,HUDSON Brian
-Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1988,Great Britain,GBR,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Silver,Swimming,1988,Poland,POL,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Silver,Swimming,1988,Great Britain,GBR,Great Britain
+Men,3x50 m Medley Relay 2-4,Silver,Swimming,1988,Poland,POL,Poland
 Women,50 m Freestyle B1,Silver,Swimming,1988,Sweden,SWE,TJERNBERG Magdalena
 Women,50 m Freestyle B2,Silver,Swimming,1988,Great Britain,GBR,MCDOWELL Angela
 Women,50 m Freestyle B3,Silver,Swimming,1988,USSR,URS,MAKSIMOVA Nadejda
@@ -10715,19 +10715,19 @@ Women,200 m Individual Medley L6,Silver,Swimming,1988,Australia,AUS,YOUNG Judith
 Women,200 m Individual Medley 6,Silver,Swimming,1988,United States of America,USA,CLARKE Nancy
 Women,400 m Individual Medley B2,Silver,Swimming,1988,Great Britain,GBR,MCDOWELL Angela
 Women,400 m Individual Medley B3,Silver,Swimming,1988,Sweden,SWE,TJERNBERG Gabriella
-Men,4x50 m Freestyle Relay A1-A8,Silver,Swimming,1988,Australia,AUS,UNKNOWN
-Men,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1988,USSR,URS,UNKNOWN
-Men,4x100 m Freestyle Relay A-L,Silver,Swimming,1988,Netherlands,NED,UNKNOWN
+Men,4x50 m Freestyle Relay A1-A8,Silver,Swimming,1988,Australia,AUS,Australia
+Men,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1988,USSR,URS,USSR
+Men,4x100 m Freestyle Relay A-L,Silver,Swimming,1988,Netherlands,NED,Netherlands
 Men,4x50 m Medley Relay A1-A8,Silver,Swimming,1988,Great Britain,GBR,MORETON David
 Men,4x50 m Medley Relay A1-A8,Silver,Swimming,1988,Great Britain,GBR,WOODS Marc
 Men,4x50 m Medley Relay A1-A8,Silver,Swimming,1988,Great Britain,GBR,ALDOUS Peter
 Men,4x50 m Medley Relay A1-A8,Silver,Swimming,1988,Great Britain,GBR,WILLIAMS Mark
-Men,4x100 m Medley Relay B1-B3,Silver,Swimming,1988,USSR,URS,UNKNOWN
-Men,4x100 m Medley Relay A-L,Silver,Swimming,1988,Sweden,SWE,UNKNOWN
-Men,4x100 m Medley Relay T/P open,Silver,Swimming,1988,France,FRA,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1988,Sweden,SWE,UNKNOWN
-Women,4x100 m Freestyle Relay A-L,Silver,Swimming,1988,Australia,AUS,UNKNOWN
-Women,4x100 m Medley Relay B1-B3,Silver,Swimming,1988,Sweden,SWE,UNKNOWN
+Men,4x100 m Medley Relay B1-B3,Silver,Swimming,1988,USSR,URS,USSR
+Men,4x100 m Medley Relay A-L,Silver,Swimming,1988,Sweden,SWE,Sweden
+Men,4x100 m Medley Relay T/P open,Silver,Swimming,1988,France,FRA,France
+Women,4x100 m Freestyle Relay B1-B3,Silver,Swimming,1988,Sweden,SWE,Sweden
+Women,4x100 m Freestyle Relay A-L,Silver,Swimming,1988,Australia,AUS,Australia
+Women,4x100 m Medley Relay B1-B3,Silver,Swimming,1988,Sweden,SWE,Sweden
 Women,4x100 m Medley Relay A-L,Silver,Swimming,1988,Denmark,DEN,BARLUND Gritt
 Women,4x100 m Medley Relay A-L,Silver,Swimming,1988,Denmark,DEN,GADEBERG Dorthe
 Women,4x100 m Medley Relay A-L,Silver,Swimming,1988,Denmark,DEN,HEDE Charlotte
@@ -12099,12 +12099,12 @@ Women,Singles L4,Silver,Table Tennis,1984,France,FRA,DARVAND Bernadette
 Women,Singles L5,Silver,Table Tennis,1984,China,CHN,WANG Shuyun
 Women,Open CL,Silver,Table Tennis,1984,France,FRA,DARVAND Bernadette
 Women,Open 1B-4,Silver,Table Tennis,1984,Hong Kong,HKG,WONG
-Men,Teams 2,Silver,Table Tennis,1984,France,FRA,UNKNOWN
-Men,Teams 3,Silver,Table Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 4,Silver,Table Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 1A,Silver,Table Tennis,1984,United States of America,USA,UNKNOWN
-Men,Teams 1B,Silver,Table Tennis,1984,Finland,FIN,UNKNOWN
-Men,Teams 1C,Silver,Table Tennis,1984,Austria,AUT,UNKNOWN
+Men,Teams 2,Silver,Table Tennis,1984,France,FRA,France
+Men,Teams 3,Silver,Table Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 4,Silver,Table Tennis,1984,Austria,AUT,Austria
+Men,Teams 1A,Silver,Table Tennis,1984,United States of America,USA,United States of America
+Men,Teams 1B,Silver,Table Tennis,1984,Finland,FIN,Finland
+Men,Teams 1C,Silver,Table Tennis,1984,Austria,AUT,Austria
 Men,Teams CP2-4,Silver,Table Tennis,1984,Belgium,BEL,LEYS J.
 Men,Teams CP2-4,Silver,Table Tennis,1984,Belgium,BEL,MAEBE D.
 Men,Teams CP5,Silver,Table Tennis,1984,Netherlands,NED,HARTMANS R.
@@ -12115,9 +12115,9 @@ Men,Teams L4,Silver,Table Tennis,1984,Hungary,HUN,MAJSAI Karoly
 Men,Teams L4,Silver,Table Tennis,1984,Hungary,HUN,SZEPESI Attila
 Men,Teams L5,Silver,Table Tennis,1984,Yugoslavia,YUG,DIMITRYEVIC Svetislav
 Men,Teams L5,Silver,Table Tennis,1984,Yugoslavia,YUG,SIMONIC Franc
-Women,Teams 2,Silver,Table Tennis,1984,Ireland,IRL,UNKNOWN
-Women,Teams 4,Silver,Table Tennis,1984,Hong Kong,HKG,UNKNOWN
-Women,Teams 1A-C,Silver,Table Tennis,1984,United States of America,USA,UNKNOWN
+Women,Teams 2,Silver,Table Tennis,1984,Ireland,IRL,Ireland
+Women,Teams 4,Silver,Table Tennis,1984,Hong Kong,HKG,Hong Kong
+Women,Teams 1A-C,Silver,Table Tennis,1984,United States of America,USA,United States of America
 Men,Singles 2,Silver,Table Tennis,1988,Korea,KOR,KIM Young Soo
 Men,Singles 3,Silver,Table Tennis,1988,Korea,KOR,KIM Ki Hoon
 Men,Singles 4,Silver,Table Tennis,1988,FR Germany,FRG,SCHMIDT Peter
@@ -12141,14 +12141,14 @@ Women,Singles 2-4,Silver,Table Tennis,1988,Austria,AUT,KIRCHMAIR Gabriele
 Women,Singles TT6,Silver,Table Tennis,1988,Sweden,SWE,ANDERSSON Marie-Louise
 Women,Singles TT7,Silver,Table Tennis,1988,Denmark,DEN,BAERTELSEN Marianne
 Women,Singles TT open,Silver,Table Tennis,1988,Belgium,BEL,BORRE Ingrid
-Men,Teams 2,Silver,Table Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 3,Silver,Table Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 4,Silver,Table Tennis,1988,Korea,KOR,UNKNOWN
+Men,Teams 2,Silver,Table Tennis,1988,Korea,KOR,Korea
+Men,Teams 3,Silver,Table Tennis,1988,Austria,AUT,Austria
+Men,Teams 4,Silver,Table Tennis,1988,Korea,KOR,Korea
 Men,Teams 1A,Silver,Table Tennis,1988,Switzerland,SUI,ROSENAST Hans
 Men,Teams 1A,Silver,Table Tennis,1988,Switzerland,SUI,ZUMKEHR Rolf
-Men,Teams 1B,Silver,Table Tennis,1988,Norway,NOR,UNKNOWN
-Men,Teams 1C,Silver,Table Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams C5-C8,Silver,Table Tennis,1988,Belgium,BEL,UNKNOWN
+Men,Teams 1B,Silver,Table Tennis,1988,Norway,NOR,Norway
+Men,Teams 1C,Silver,Table Tennis,1988,Korea,KOR,Korea
+Men,Teams C5-C8,Silver,Table Tennis,1988,Belgium,BEL,Belgium
 Men,Teams TT2,Silver,Table Tennis,1988,Korea,KOR,CHOI Hyung Suk
 Men,Teams TT2,Silver,Table Tennis,1988,Korea,KOR,UM Tae Hyung
 Men,Teams TT5,Silver,Table Tennis,1988,France,FRA,GAROFALO Thierry
@@ -12157,9 +12157,9 @@ Men,Teams TT6,Silver,Table Tennis,1988,Japan,JPN,KOZAKURA Masaaki
 Men,Teams TT6,Silver,Table Tennis,1988,Japan,JPN,SAIKI Shuzo
 Men,Teams TT7,Silver,Table Tennis,1988,Sweden,SWE,NILSSON Jorgen
 Men,Teams TT7,Silver,Table Tennis,1988,Sweden,SWE,NYBERG Dennis
-Women,Teams 2,Silver,Table Tennis,1988,Great Britain,GBR,UNKNOWN
-Women,Teams 4,Silver,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Women,Teams TT6,Silver,Table Tennis,1988,France,FRA,UNKNOWN
+Women,Teams 2,Silver,Table Tennis,1988,Great Britain,GBR,Great Britain
+Women,Teams 4,Silver,Table Tennis,1988,FR Germany,FRG,FR Germany
+Women,Teams TT6,Silver,Table Tennis,1988,France,FRA,France
 Men,Singles 1,Silver,Table Tennis,1992,Germany,GER,KIRCHHOFF Ralf
 Men,Singles 2,Silver,Table Tennis,1992,Finland,FIN,KURKINEN Jari
 Men,Singles 3,Silver,Table Tennis,1992,Great Britain,GBR,ROBINSON Neil
@@ -12332,7 +12332,7 @@ Men,Teams 9,Silver,Table Tennis,2004,Austria,AUT,GUTDEUTSCH Rene
 Men,Teams 10,Silver,Table Tennis,2004,France,FRA,CHATEIGNER Olivier
 Men,Teams 10,Silver,Table Tennis,2004,France,FRA,DE LA BOURDONNAYE Gilles
 Men,Teams 10,Silver,Table Tennis,2004,France,FRA,SERIGNAT Francois
-Women,Teams 1-3,Silver,Table Tennis,2004,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1-3,Silver,Table Tennis,2004,UNKNOWN,UNKNOWN,-
 Women,Teams 4-5,Silver,Table Tennis,2004,Chinese Taipei,TPE,HSIAO Shu Chin
 Women,Teams 4-5,Silver,Table Tennis,2004,Chinese Taipei,TPE,WEI Mei Hui
 Women,Teams 6-10,Silver,Table Tennis,2004,Poland,POL,GRZELAK Malgorzata
@@ -12531,12 +12531,12 @@ Women,Singles L4,Silver,Wheelchair Tennis,1984,France,FRA,DARVAND Bernadette
 Women,Singles L5,Silver,Wheelchair Tennis,1984,China,CHN,WANG Shuyun
 Women,Open CL,Silver,Wheelchair Tennis,1984,France,FRA,DARVAND Bernadette
 Women,Open 1B-4,Silver,Wheelchair Tennis,1984,Hong Kong,HKG,WONG
-Men,Teams 2,Silver,Wheelchair Tennis,1984,France,FRA,UNKNOWN
-Men,Teams 3,Silver,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 4,Silver,Wheelchair Tennis,1984,Austria,AUT,UNKNOWN
-Men,Teams 1A,Silver,Wheelchair Tennis,1984,United States of America,USA,UNKNOWN
-Men,Teams 1B,Silver,Wheelchair Tennis,1984,Finland,FIN,UNKNOWN
-Men,Teams 1C,Silver,Wheelchair Tennis,1984,Austria,AUT,UNKNOWN
+Men,Teams 2,Silver,Wheelchair Tennis,1984,France,FRA,France
+Men,Teams 3,Silver,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 4,Silver,Wheelchair Tennis,1984,Austria,AUT,Austria
+Men,Teams 1A,Silver,Wheelchair Tennis,1984,United States of America,USA,United States of America
+Men,Teams 1B,Silver,Wheelchair Tennis,1984,Finland,FIN,Finland
+Men,Teams 1C,Silver,Wheelchair Tennis,1984,Austria,AUT,Austria
 Men,Teams CP2-4,Silver,Wheelchair Tennis,1984,Belgium,BEL,LEYS J.MAEBE D.
 Men,Teams CP5,Silver,Wheelchair Tennis,1984,Netherlands,NED,HARTMANS R.VISSER R.
 Men,Teams L1,Silver,Wheelchair Tennis,1984,FR Germany,FRG,SCHMIDTMAYER
@@ -12545,9 +12545,9 @@ Men,Teams L4,Silver,Wheelchair Tennis,1984,Hungary,HUN,MAJSAI Karoly
 Men,Teams L4,Silver,Wheelchair Tennis,1984,Hungary,HUN,SZEPESI Attila
 Men,Teams L5,Silver,Wheelchair Tennis,1984,Yugoslavia,YUG,DIMITRYEVIC Svetislav
 Men,Teams L5,Silver,Wheelchair Tennis,1984,Yugoslavia,YUG,SIMONIC Franc
-Women,Teams 2,Silver,Wheelchair Tennis,1984,Ireland,IRL,UNKNOWN
-Women,Teams 4,Silver,Wheelchair Tennis,1984,Hong Kong,HKG,UNKNOWN
-Women,Teams 1A-C,Silver,Wheelchair Tennis,1984,United States of America,USA,UNKNOWN
+Women,Teams 2,Silver,Wheelchair Tennis,1984,Ireland,IRL,Ireland
+Women,Teams 4,Silver,Wheelchair Tennis,1984,Hong Kong,HKG,Hong Kong
+Women,Teams 1A-C,Silver,Wheelchair Tennis,1984,United States of America,USA,United States of America
 Men,Singles 2,Silver,Wheelchair Tennis,1988,Korea,KOR,KIM Young Soo
 Men,Singles 3,Silver,Wheelchair Tennis,1988,Korea,KOR,KIM Ki Hoon
 Men,Singles 4,Silver,Wheelchair Tennis,1988,FR Germany,FRG,SCHMIDT Peter
@@ -12571,14 +12571,14 @@ Women,Singles 2-4,Silver,Wheelchair Tennis,1988,Austria,AUT,KIRCHMAIR Gabriele
 Women,Singles TT6,Silver,Wheelchair Tennis,1988,Sweden,SWE,ANDERSSON Marie-Louise
 Women,Singles TT7,Silver,Wheelchair Tennis,1988,Denmark,DEN,BAERTELSEN Marianne
 Women,Singles TT open,Silver,Wheelchair Tennis,1988,Belgium,BEL,BORRE Ingrid
-Men,Teams 2,Silver,Wheelchair Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams 3,Silver,Wheelchair Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 4,Silver,Wheelchair Tennis,1988,Korea,KOR,UNKNOWN
+Men,Teams 2,Silver,Wheelchair Tennis,1988,Korea,KOR,Korea
+Men,Teams 3,Silver,Wheelchair Tennis,1988,Austria,AUT,Austria
+Men,Teams 4,Silver,Wheelchair Tennis,1988,Korea,KOR,Korea
 Men,Teams 1A,Silver,Wheelchair Tennis,1988,Switzerland,SUI,ROSENAST Hans
 Men,Teams 1A,Silver,Wheelchair Tennis,1988,Switzerland,SUI,ZUMKEHR Rolf
-Men,Teams 1B,Silver,Wheelchair Tennis,1988,Norway,NOR,UNKNOWN
-Men,Teams 1C,Silver,Wheelchair Tennis,1988,Korea,KOR,UNKNOWN
-Men,Teams C5-C8,Silver,Wheelchair Tennis,1988,Belgium,BEL,UNKNOWN
+Men,Teams 1B,Silver,Wheelchair Tennis,1988,Norway,NOR,Norway
+Men,Teams 1C,Silver,Wheelchair Tennis,1988,Korea,KOR,Korea
+Men,Teams C5-C8,Silver,Wheelchair Tennis,1988,Belgium,BEL,Belgium
 Men,Teams TT2,Silver,Wheelchair Tennis,1988,Korea,KOR,CHOI Hyung Suk
 Men,Teams TT2,Silver,Wheelchair Tennis,1988,Korea,KOR,UM Tae Hyung
 Men,Teams TT5,Silver,Wheelchair Tennis,1988,France,FRA,GAROFALO Thierry
@@ -12587,9 +12587,9 @@ Men,Teams TT6,Silver,Wheelchair Tennis,1988,Japan,JPN,KOZAKURA Masaaki
 Men,Teams TT6,Silver,Wheelchair Tennis,1988,Japan,JPN,SAIKI Shuzo
 Men,Teams TT7,Silver,Wheelchair Tennis,1988,Sweden,SWE,NILSSON Jorgen
 Men,Teams TT7,Silver,Wheelchair Tennis,1988,Sweden,SWE,NYBERG Dennis
-Women,Teams 2,Silver,Wheelchair Tennis,1988,Great Britain,GBR,UNKNOWN
-Women,Teams 4,Silver,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Women,Teams TT6,Silver,Wheelchair Tennis,1988,France,FRA,UNKNOWN
+Women,Teams 2,Silver,Wheelchair Tennis,1988,Great Britain,GBR,Great Britain
+Women,Teams 4,Silver,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Women,Teams TT6,Silver,Wheelchair Tennis,1988,France,FRA,France
 Men,Singles 1,Silver,Wheelchair Tennis,1992,Germany,GER,KIRCHHOFF Ralf
 Men,Singles 2,Silver,Wheelchair Tennis,1992,Finland,FIN,KURKINEN Jari
 Men,Singles 3,Silver,Wheelchair Tennis,1992,Great Britain,GBR,ROBINSON Neil
@@ -12762,7 +12762,7 @@ Men,Teams 9,Silver,Wheelchair Tennis,2004,Austria,AUT,GUTDEUTSCH Rene
 Men,Teams 10,Silver,Wheelchair Tennis,2004,France,FRA,CHATEIGNER Olivier
 Men,Teams 10,Silver,Wheelchair Tennis,2004,France,FRA,DE LA BOURDONNAYE Gilles
 Men,Teams 10,Silver,Wheelchair Tennis,2004,France,FRA,SERIGNAT Francois
-Women,Teams 1-3,Silver,Wheelchair Tennis,2004,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1-3,Silver,Wheelchair Tennis,2004,UNKNOWN,UNKNOWN,-
 Women,Teams 4-5,Silver,Wheelchair Tennis,2004,Chinese Taipei,TPE,HSIAO Shu Chin
 Women,Teams 4-5,Silver,Wheelchair Tennis,2004,Chinese Taipei,TPE,WEI Mei Hui
 Women,Teams 6-10,Silver,Wheelchair Tennis,2004,Poland,POL,GRZELAK Malgorzata
@@ -12896,10 +12896,10 @@ Men,PT4,Silver,Triathlon,2016,Canada,CAN,DANIEL Stefan
 Women,PT2,Silver,Triathlon,2016,United States of America,USA,DANISEWICZ Hailey
 Women,PT4,Silver,Triathlon,2016,Great Britain,GBR,STEADMAN Lauren
 Women,PT5,Silver,Triathlon,2016,Great Britain,GBR,PATRICK Alison
-Men,Sitting Volleyball,Silver,Volleyball,1980,Sweden,SWE,UNKNOWN
-Men,Standing Volleyball,Silver,Volleyball,1980,Poland,POL,UNKNOWN
-Men,Sitting Volleyball,Silver,Volleyball,1984,FR Germany,FRG,UNKNOWN
-Men,Standing Volleyball,Silver,Volleyball,1984,FR Germany,FRG,UNKNOWN
+Men,Sitting Volleyball,Silver,Volleyball,1980,Sweden,SWE,Sweden
+Men,Standing Volleyball,Silver,Volleyball,1980,Poland,POL,Poland
+Men,Sitting Volleyball,Silver,Volleyball,1984,FR Germany,FRG,FR Germany
+Men,Standing Volleyball,Silver,Volleyball,1984,FR Germany,FRG,FR Germany
 Men,Sitting Volleyball,Silver,Volleyball,1988,Netherlands,NED,BERNENSCHOT Herman
 Men,Sitting Volleyball,Silver,Volleyball,1988,Netherlands,NED,BOLTHUIS Henk
 Men,Sitting Volleyball,Silver,Volleyball,1988,Netherlands,NED,DOMEN Harry
@@ -13090,31 +13090,31 @@ Men,Short Metric Round Tetraplegic,Bronze,Archery,1980,Norway,NOR,KRISTIANSEN Sv
 Men,Advanced Metric Round Paraplegic,Bronze,Archery,1980,Austria,AUT,LETTNER Felix
 Women,Double FITA Round Amputee,Bronze,Archery,1980,France,FRA,HYBOIS Marie-Francoise
 Women,Double FITA Round Paraplegic,Bronze,Archery,1980,FR Germany,FRG,DERSEN Anneliese
-Women,Double FITA Round Novice Paraplegic,Bronze,Archery,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,Short Metric Round Paraplegic,Bronze,Archery,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Double FITA Round Novice Paraplegic,Bronze,Archery,1980,UNKNOWN,UNKNOWN,-
+Women,Short Metric Round Paraplegic,Bronze,Archery,1980,UNKNOWN,UNKNOWN,-
 Women,Advanced Metric Round Paraplegic,Bronze,Archery,1980,Great Britain,GBR,MATTHEWS G.
-Men,Double FITA Round Team Amputee,Bronze,Archery,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Double FITA Round Team Amputee,Bronze,Archery,1980,UNKNOWN,UNKNOWN,-
 Men,Double FITA Round Team Paraplegic,Bronze,Archery,1980,FR Germany,FRG,GEISS H.PFEFFER U.SCHMIDBERGER R.
-Men,Double FITA Round C1-C2,Bronze,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,"Double FITA Round C3,C6",Bronze,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Double FITA Round C1-C2,Bronze,Archery,1984,UNKNOWN,UNKNOWN,-
+Men,"Double FITA Round C3,C6",Bronze,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,Double FITA Round Div. 3,Bronze,Archery,1984,France,FRA,TANQUEREL Benoit
 Men,Double FITA Round Integrated,Bronze,Archery,1984,Finland,FIN,TIRRONEN Raimo
 Men,Double FITA Round Paraplegic,Bronze,Archery,1984,Finland,FIN,LAUKKANEN Heikki
 Men,Double FITA Round Tetraplegic,Bronze,Archery,1984,Norway,NOR,STEBEKK Oddbjorn
 Men,Double Short Metric Round Paraplegic,Bronze,Archery,1984,Italy,ITA,DE MASI Pasquale
-Men,Double Short Metric Round Tetraplegic,Bronze,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Double Short Metric Round Tetraplegic,Bronze,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,Double Advanced Metric Round Paraplegic,Bronze,Archery,1984,United States of America,USA,KRISHNER Patrick
 Men,Double Advanced Metric Round Tetraplegic,Bronze,Archery,1984,Great Britain,GBR,ARNOLD Ernest
-Women,Double FITA Round Div. 3,Bronze,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Double FITA Round Div. 3,Bronze,Archery,1984,UNKNOWN,UNKNOWN,-
 Women,Double FITA Round Integrated,Bronze,Archery,1984,Italy,ITA,MONACO Irene
 Women,Double FITA Round Paraplegic,Bronze,Archery,1984,Australia,AUS,DAVIES Susan
 Women,Double Short Metric Round Paraplegic,Bronze,Archery,1984,Great Britain,GBR,GRAY Anne
-Men,Double FITA Round Team 1A-6,Bronze,Archery,1984,Great Britain,GBR,UNKNOWN
+Men,Double FITA Round Team 1A-6,Bronze,Archery,1984,Great Britain,GBR,Great Britain
 Men,Double FITA Round Team Integrated,Bronze,Archery,1984,FR Germany,FRG,BOECKERS Manfred
 Men,Double FITA Round Team Integrated,Bronze,Archery,1984,FR Germany,FRG,BRENNE Manfred
 Men,Double FITA Round Team Integrated,Bronze,Archery,1984,FR Germany,FRG,BUTENHOFF Kilmar
-Men,Short Metric Round Team 1A-6,Bronze,Archery,1984,Great Britain,GBR,UNKNOWN
-Men,Double Advanced Metric Round Team 1A-6,Bronze,Archery,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Short Metric Round Team 1A-6,Bronze,Archery,1984,Great Britain,GBR,Great Britain
+Men,Double Advanced Metric Round Team 1A-6,Bronze,Archery,1984,UNKNOWN,UNKNOWN,-
 Men,"Single FITA Round C7,C8",Bronze,Archery,1988,Korea,KOR,KIM Kyung Sun
 Men,Double FITA Round Open,Bronze,Archery,1988,Spain,ESP,REBOLLO Antonio
 Men,Double FITA Round 2-6,Bronze,Archery,1988,FR Germany,FRG,WOLF Udo
@@ -13443,7 +13443,7 @@ Men,4x60 m 1A-1C,Bronze,Athletics,1980,Netherlands,NED,NIEHOF E.
 Men,4x60 m 1A-1C,Bronze,Athletics,1980,Netherlands,NED,SLIJKERMAN C. J. M.
 Men,4x60 m 1A-1C,Bronze,Athletics,1980,Netherlands,NED,SMIT J. C.
 Men,4x60 m 1A-1C,Bronze,Athletics,1980,Netherlands,NED,VAN DER BELT J.
-Men,4x80 m CP D,Bronze,Athletics,1980,Denmark,DEN,UNKNOWN
+Men,4x80 m CP D,Bronze,Athletics,1980,Denmark,DEN,Denmark
 Men,4x100 m 2-5,Bronze,Athletics,1980,Canada,CAN,FITZGERALD M.
 Men,4x100 m 2-5,Bronze,Athletics,1980,Canada,CAN,HANSEN R.
 Men,4x100 m 2-5,Bronze,Athletics,1980,Canada,CAN,MINOR R.
@@ -13842,17 +13842,17 @@ Women,Pentathlon 3,Bronze,Athletics,1984,Australia,AUS,RUSSELL Julie
 Women,Pentathlon 4,Bronze,Athletics,1984,FR Germany,FRG,BARTHEIEL M.
 Women,Pentathlon 5,Bronze,Athletics,1984,Mexico,MEX,CINEROS B.
 Women,Pentathlon 6,Bronze,Athletics,1984,Bahamas,BAH,MORGAN Christine
-Mixed,3x60 m C2-3,Bronze,Athletics,1984,Great Britain,GBR,UNKNOWN
+Mixed,3x60 m C2-3,Bronze,Athletics,1984,Great Britain,GBR,Great Britain
 Men,100 m B1,Bronze,Athletics,1984,Poland,POL,BIDZINSKI Stefan
 Men,High Jump B3,Bronze,Athletics,1984,Australia,AUS,LAWTON Warren
-Men,4x100 m 1A-1C,Bronze,Athletics,1984,Australia,AUS,UNKNOWN
-Men,4x100 m A4-9,Bronze,Athletics,1984,United States of America,USA,UNKNOWN
-Men,4x100 m C7-8,Bronze,Athletics,1984,Ireland,IRL,UNKNOWN
-Men,4x100 m 2-5,Bronze,Athletics,1984,Sweden,SWE,UNKNOWN
-Men,4x200 m 2-5,Bronze,Athletics,1984,FR Germany,FRG,UNKNOWN
-Men,4x400 m A4-9,Bronze,Athletics,1984,Austria,AUT,UNKNOWN
-Men,4x400 m 2-5,Bronze,Athletics,1984,Australia,AUS,UNKNOWN
-Women,4x100 m 2-5,Bronze,Athletics,1984,Hong Kong,HKG,UNKNOWN
+Men,4x100 m 1A-1C,Bronze,Athletics,1984,Australia,AUS,Australia
+Men,4x100 m A4-9,Bronze,Athletics,1984,United States of America,USA,United States of America
+Men,4x100 m C7-8,Bronze,Athletics,1984,Ireland,IRL,Ireland
+Men,4x100 m 2-5,Bronze,Athletics,1984,Sweden,SWE,Sweden
+Men,4x200 m 2-5,Bronze,Athletics,1984,FR Germany,FRG,FR Germany
+Men,4x400 m A4-9,Bronze,Athletics,1984,Austria,AUT,Austria
+Men,4x400 m 2-5,Bronze,Athletics,1984,Australia,AUS,Australia
+Women,4x100 m 2-5,Bronze,Athletics,1984,Hong Kong,HKG,Hong Kong
 Women,4x400 m 2-5,Bronze,Athletics,1984,Italy,ITA,BALSAMO Milena
 Women,4x400 m 2-5,Bronze,Athletics,1984,Italy,ITA,BULLERI Sabrina
 Women,4x400 m 2-5,Bronze,Athletics,1984,Italy,ITA,VARANO Tina
@@ -14352,7 +14352,7 @@ Men,Shot Put C6,Bronze,Athletics,1992,Korea,KOR,KIM Dae Kwan
 Men,Shot Put C7,Bronze,Athletics,1992,Austria,AUT,SCHEIBER Anton
 Men,Discus Throw THS2,Bronze,Athletics,1992,Germany,GER,SIMONAZZI Roberto
 Men,Discus Throw THS3,Bronze,Athletics,1992,Iraq,IRQ,KHALAF Ahmed E.
-Men,Discus Throw THS4,Bronze,Athletics,1992,GRONSKY Roman,TCH,LEIPERT Dusan
+Men,Discus Throw THS4,Bronze,Athletics,1992,Czech Republic,TCH,LEIPERT Dusan
 Men,Discus Throw THW2-3,Bronze,Athletics,1992,Bahrain,BRN,AL SAQER Khaled
 Men,Discus Throw THW4,Bronze,Athletics,1992,Germany,GER,BRAUNER Hubertus
 Men,Discus Throw THW5,Bronze,Athletics,1992,United States of America,USA,ASTRADA Arnold
@@ -14368,7 +14368,7 @@ Men,Javelin THS3,Bronze,Athletics,1992,Germany,GER,MIMBERG Dirk
 Men,Javelin THS4,Bronze,Athletics,1992,Thailand,THA,AUNGKULANAVIN Boochit
 Men,Javelin THW2,Bronze,Athletics,1992,Canada,CAN,MERRILL Hal
 Men,Javelin THW3,Bronze,Athletics,1992,-,EUN,POTAPENKO Vladimir
-Men,Javelin THW4,Bronze,Athletics,1992,GRONSKY Roman,TCH,BOGDAN Stefan
+Men,Javelin THW4,Bronze,Athletics,1992,Czech Republic,TCH,BOGDAN Stefan
 Men,Javelin THW5,Bronze,Athletics,1992,Cuba,CUB,ARIOSA Gustavo
 Men,Javelin THW6,Bronze,Athletics,1992,Jamaica,JAM,DAVIS Jefferson
 Men,Javelin THW7,Bronze,Athletics,1992,Great Britain,GBR,PLOWRIGHT David
@@ -14383,7 +14383,7 @@ Men,Pentathlon PS3,Bronze,Athletics,1992,Germany,GER,ECKERT Detlef
 Men,Pentathlon PS4,Bronze,Athletics,1992,United States of America,USA,BOURGEOIS Thomas
 Men,Pentathlon PW3-4,Bronze,Athletics,1992,United States of America,USA,SAUNDERS Kevin
 Men,Pentathlon B1,Bronze,Athletics,1992,Spain,ESP,MENDOZA Jorge
-Men,Pentathlon B2,Bronze,Athletics,1992,GRONSKY Roman,TCH,GODRI Frantisek
+Men,Pentathlon B2,Bronze,Athletics,1992,Czech Republic,TCH,GODRI Frantisek
 Women,100 m TS4,Bronze,Athletics,1992,-,EUN,LEONTIOUK Irina
 Women,100 m TW2,Bronze,Athletics,1992,Mexico,MEX,TORRES Leticia
 Women,100 m TW3,Bronze,Athletics,1992,Canada,CAN,BOURGONJE Colette
@@ -14411,7 +14411,7 @@ Women,400 m C7-8,Bronze,Athletics,1992,Ireland,IRL,ROCK Alma
 Women,800 m TW2,Bronze,Athletics,1992,France,FRA,GOSSIAUX Florence
 Women,800 m TW3,Bronze,Athletics,1992,Canada,CAN,BOURGONJE Colette
 Women,800 m TW4,Bronze,Athletics,1992,Canada,CAN,PETITCLERC Chantal
-Women,800 m B1,Bronze,Athletics,1992,GRONSKY Roman,TCH,VALNICKOVA Pavla
+Women,800 m B1,Bronze,Athletics,1992,Czech Republic,TCH,VALNICKOVA Pavla
 Women,800 m B2,Bronze,Athletics,1992,United States of America,USA,MCGONIGLE Pamela
 Women,1500 m TW3-4,Bronze,Athletics,1992,Netherlands,NED,JANSEN Jennette
 Women,1500 m B1,Bronze,Athletics,1992,Spain,ESP,ESPINOSA Mayte
@@ -14423,7 +14423,7 @@ Women,10000 m TW3-4,Bronze,Athletics,1992,United States of America,USA,CODY Ann
 Women,Marathon TW3-4,Bronze,Athletics,1992,Germany,GER,ANGGRENY Lily
 Women,Long Jump B1,Bronze,Athletics,1992,Germany,GER,GAEDICKE Kerstin
 Women,Long Jump B2,Bronze,Athletics,1992,Spain,ESP,LOPEZ Ana
-Women,Long Jump B3,Bronze,Athletics,1992,GRONSKY Roman,TCH,ZEMANOVA Pavla
+Women,Long Jump B3,Bronze,Athletics,1992,Czech Republic,TCH,ZEMANOVA Pavla
 Women,Shot Put THS2,Bronze,Athletics,1992,Mexico,MEX,RODRIGUEZ Consuelo
 Women,Shot Put THW5,Bronze,Athletics,1992,Slovenia,SLO,LAPORNIK Dragica
 Women,Shot Put THW7,Bronze,Athletics,1992,Great Britain,GBR,ORD Ethel Elaine
@@ -15728,8 +15728,8 @@ Women,4x100 m T35-38,Bronze,Athletics,2016,Australia,AUS,ELKINGTON-JONES Jodi
 Women,4x100 m T35-38,Bronze,Athletics,2016,Australia,AUS,PARDY Ella Azura
 Women,4x100 m T35-38,Bronze,Athletics,2016,Australia,AUS,CLEAVER Erin
 Women,4x100 m T35-38,Bronze,Athletics,2016,Australia,AUS,HOLT Isis
-Men,Tournament,Bronze,Basketball,1980,United States of America,USA,UNKNOWN
-Women,Tournament,Bronze,Basketball,1980,United States of America,USA,UNKNOWN
+Men,Tournament,Bronze,Basketball,1980,United States of America,USA,United States of America
+Women,Tournament,Bronze,Basketball,1980,United States of America,USA,United States of America
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,ANDER Nils
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,ANDERSSON Lars-Gunnar
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,ARKESTEDT Lars
@@ -15742,7 +15742,7 @@ Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,LINDHOLM Jan
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,LOFSTROM Lars
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,NYSTROM Bengt-Gosta
 Men,Tournament,Bronze,Basketball,1984,Sweden,SWE,OLSSON Tommy
-Women,Tournament,Bronze,Basketball,1984,Japan,JPN,UNKNOWN
+Women,Tournament,Bronze,Basketball,1984,Japan,JPN,Japan
 Men,Tournament,Bronze,Basketball,1988,France,FRA,BAYE Philippe
 Men,Tournament,Bronze,Basketball,1988,France,FRA,BENAULT Eric
 Men,Tournament,Bronze,Basketball,1988,France,FRA,CHAVANNE Lionel
@@ -15946,10 +15946,10 @@ Women,Foil Individual 2-3,Bronze,Fencing,1980,Israel,ISR,LEVY Chemda
 Women,Foil Individual 4-5,Bronze,Fencing,1980,Israel,ISR,PERETZ Margalit
 Women,Foil Novice Individual,Bronze,Fencing,1980,Netherlands,NED,TICHELAAR M.
 Mixed,Foil Individual 1A,Bronze,Fencing,1980,Great Britain,GBR,MCLELLAN M.
-Mixed,Foil Individual 1B,Bronze,Fencing,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Mixed,Foil Individual 1B,Bronze,Fencing,1980,UNKNOWN,UNKNOWN,-
 Mixed,Foil Individual 1C,Bronze,Fencing,1980,France,FRA,LEROUX
-Men,Epee Team,Bronze,Fencing,1980,FR Germany,FRG,UNKNOWN
-Men,Foil Team,Bronze,Fencing,1980,Great Britain,GBR,UNKNOWN
+Men,Epee Team,Bronze,Fencing,1980,FR Germany,FRG,FR Germany
+Men,Foil Team,Bronze,Fencing,1980,Great Britain,GBR,Great Britain
 Men,Sabre Team,Bronze,Fencing,1980,Italy,ITA,LOI Vittorio
 Men,Sabre Team,Bronze,Fencing,1980,Italy,ITA,MOLINARI Renzo
 Men,Sabre Team,Bronze,Fencing,1980,Italy,ITA,PECCHENINO Germano
@@ -15959,19 +15959,19 @@ Women,Foil Team,Bronze,Fencing,1980,Italy,ITA,MONACO Irene
 Women,Foil Team,Bronze,Fencing,1980,Italy,ITA,SICARI Rosa
 Men,Epee Individual 2-3,Bronze,Fencing,1984,France,FRA,BELDJILAU
 Men,Epee Individual 4-5,Bronze,Fencing,1984,Kuwait,KUW,AL-SALEH Ahmad Habib
-Men,Foil Individual 2-3,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Foil Individual 2-3,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,-
 Men,Foil Individual 4-5,Bronze,Fencing,1984,Great Britain,GBR,CLARKE J.
 Men,Foil Individual 1B,Bronze,Fencing,1984,Great Britain,GBR,TRAVIS
-Men,Foil Individual 1C,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Foil Individual 1C,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,-
 Men,Sabre Individual 2-3,Bronze,Fencing,1984,Great Britain,GBR,DICKINSON Brian
 Men,Sabre Individual 4-5,Bronze,Fencing,1984,Belgium,BEL,WATERBLEY Ronny
 Women,Foil Individual 2-3,Bronze,Fencing,1984,France,FRA,SEVENO Jannick
 Women,Foil Individual 4-5,Bronze,Fencing,1984,France,FRA,LEMOINE Therese
-Women,Foil Individual 1C,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,Epee Team,Bronze,Fencing,1984,Hong Kong,HKG,UNKNOWN
-Men,Foil Team,Bronze,Fencing,1984,Great Britain,GBR,UNKNOWN
-Men,Sabre Team,Bronze,Fencing,1984,Great Britain,GBR,UNKNOWN
-Women,Foil Team,Bronze,Fencing,1984,Hong Kong,HKG,UNKNOWN
+Women,Foil Individual 1C,Bronze,Fencing,1984,UNKNOWN,UNKNOWN,-
+Men,Epee Team,Bronze,Fencing,1984,Hong Kong,HKG,Hong Kong
+Men,Foil Team,Bronze,Fencing,1984,Great Britain,GBR,Great Britain
+Men,Sabre Team,Bronze,Fencing,1984,Great Britain,GBR,Great Britain
+Women,Foil Team,Bronze,Fencing,1984,Hong Kong,HKG,Hong Kong
 Men,Epee Individual 1C-3,Bronze,Fencing,1988,Hong Kong,HKG,LAU Sik
 Men,Epee Individual 4-6,Bronze,Fencing,1988,FR Germany,FRG,LIPINSKI Wilfried
 Men,Foil Individual 1C-3,Bronze,Fencing,1988,France,FRA,HENNAERT Andre
@@ -16286,7 +16286,7 @@ Women,-73 kg,Bronze,Powerlifting,2016,Egypt,EGY,ALI Amany
 Women,-79 kg,Bronze,Powerlifting,2016,Chinese Taipei,TPE,LIN Tzu-Hui
 Women,-86 kg,Bronze,Powerlifting,2016,Mexico,MEX,DIAZ VILCHIS Catalina
 Women,+86 kg,Bronze,Powerlifting,2016,Netherlands,NED,TUINFORT Melaica
-Mixed,Wheelchair Rugby,Bronze,Rugby,1996,UNKNOWN,UNKNOWN,UNKNOWN
+Mixed,Wheelchair Rugby,Bronze,Rugby,1996,UNKNOWN,UNKNOWN,-
 Mixed,Wheelchair Rugby,Bronze,Rugby,2000,New Zealand,NZL,SHARMAN Grant
 Mixed,Wheelchair Rugby,Bronze,Rugby,2000,New Zealand,NZL,GUTHRIE Stephen
 Mixed,Wheelchair Rugby,Bronze,Rugby,2000,New Zealand,NZL,HOWE Tony
@@ -16421,9 +16421,9 @@ Men,3x50 m Individual Medley C1,Bronze,Swimming,1980,Poland,POL,CHORZEPA Wieslaw
 Men,3x50 m Individual Medley D1,Bronze,Swimming,1980,Netherlands,NED,BAKX J. T. M.
 Men,3x50 m Individual Medley E1,Bronze,Swimming,1980,Yugoslavia,YUG,ZABEV Vangel
 Men,3x50 m Individual Medley F,Bronze,Swimming,1980,FR Germany,FRG,PETEREIT K.
-Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1980,Canada,CAN,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1980,New Zealand,NZL,UNKNOWN
-Men,3x100 m Medley Relay CP D,Bronze,Swimming,1980,Belgium,BEL,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1980,Canada,CAN,Canada
+Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1980,New Zealand,NZL,New Zealand
+Men,3x100 m Medley Relay CP D,Bronze,Swimming,1980,Belgium,BEL,Belgium
 Women,25 m Freestyle 1A,Bronze,Swimming,1980,Argentina,ARG,GARCIA Eugenia
 Women,25 m Freestyle 1B,Bronze,Swimming,1980,Zimbabwe,ZIM,ROBERTSON Eileen
 Women,50 m Freestyle CP C,Bronze,Swimming,1980,Belgium,BEL,LAUWERS E.
@@ -16478,42 +16478,42 @@ Women,100 m Butterfly E,Bronze,Swimming,1980,Netherlands,NED,CORNELISSEN Silvia
 Women,3x25 m Individual Medley 2,Bronze,Swimming,1980,Poland,POL,RUSEWICZ Irena
 Women,3x50 m Individual Medley C1,Bronze,Swimming,1980,Poland,POL,DUDKA Ewa
 Women,3x50 m Individual Medley D1,Bronze,Swimming,1980,Poland,POL,CZOPEK Bozena
-Women,3x50 m Medley Relay 2-4,Bronze,Swimming,1980,United States of America,USA,UNKNOWN
-Women,3x100 m Medley Relay CP D,Bronze,Swimming,1980,France,FRA,UNKNOWN
+Women,3x50 m Medley Relay 2-4,Bronze,Swimming,1980,United States of America,USA,United States of America
+Women,3x100 m Medley Relay CP D,Bronze,Swimming,1980,France,FRA,France
 Men,4x25 m Individual Medley 3,Bronze,Swimming,1980,Spain,ESP,FLORES Francisco
 Men,4x50 m Individual Medley A,Bronze,Swimming,1980,Sweden,SWE,KARLSSON Hakan
 Men,4x50 m Individual Medley B,Bronze,Swimming,1980,Sweden,SWE,BERNER Sixten
 Men,4x50 m Individual Medley C,Bronze,Swimming,1980,Poland,POL,BIELA Grzegorz
-Men,4x50 m Individual Medley D,Bronze,Swimming,1980,GRONSKY Roman,TCH,UNKNOWN
+Men,4x50 m Individual Medley D,Bronze,Swimming,1980,Czech Republic,TCH,GRONSKY Roman
 Men,4x50 m Individual Medley E,Bronze,Swimming,1980,Poland,POL,KOZAK Janusz
 Men,4x50 m Individual Medley 4,Bronze,Swimming,1980,Sweden,SWE,OLSSON Lars
 Men,4x50 m Individual Medley 5,Bronze,Swimming,1980,Spain,ESP,JIMENEZ Eugenio
 Men,4x50 m Individual Medley 6,Bronze,Swimming,1980,Poland,POL,SAJKIEWICZ Zbigniew
 Men,4x100 m Individual Medley A,Bronze,Swimming,1980,United States of America,USA,WHEATLEY Jeff
 Men,4x100 m Individual Medley B,Bronze,Swimming,1980,Canada,CAN,GRENON Lee
-Men,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1980,United States of America,USA,UNKNOWN
-Men,4x100 m Freestyle Relay A-B,Bronze,Swimming,1980,Canada,CAN,UNKNOWN
-Men,4x100 m Freestyle Relay C-D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x100 m Medley Relay A-B,Bronze,Swimming,1980,Canada,CAN,UNKNOWN
-Men,4x100 m Medley Relay C,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x100 m Medley Relay D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Bronze,Swimming,1980,France,FRA,UNKNOWN
+Men,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1980,United States of America,USA,United States of America
+Men,4x100 m Freestyle Relay A-B,Bronze,Swimming,1980,Canada,CAN,Canada
+Men,4x100 m Freestyle Relay C-D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Men,4x100 m Medley Relay A-B,Bronze,Swimming,1980,Canada,CAN,Canada
+Men,4x100 m Medley Relay C,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Men,4x100 m Medley Relay D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Men,4x100 m Medley Relay 1A-6,Bronze,Swimming,1980,France,FRA,France
 Women,4x25 m Individual Medley 3,Bronze,Swimming,1980,Poland,POL,ADAMIK Malgozata
 Women,4x50 m Individual Medley A,Bronze,Swimming,1980,Australia,AUS,CONNORS Carolyn
 Women,4x50 m Individual Medley B,Bronze,Swimming,1980,United States of America,USA,VAN LIERE Marie
-Women,4x50 m Individual Medley C,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,4x50 m Individual Medley C,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
 Women,4x50 m Individual Medley D,Bronze,Swimming,1980,Sweden,SWE,SAMUELSSON Britt-Marie
 Women,4x50 m Individual Medley E,Bronze,Swimming,1980,Poland,POL,KORNIEWICZ Anna
 Women,4x50 m Individual Medley 4,Bronze,Swimming,1980,France,FRA,CRESPEAU M.
 Women,4x50 m Individual Medley 5,Bronze,Swimming,1980,Great Britain,GBR,WILKINSON L.
-Women,4x50 m Individual Medley 6,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Individual Medley A,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,4x50 m Individual Medley 6,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Women,4x100 m Individual Medley A,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
 Women,4x100 m Individual Medley B,Bronze,Swimming,1980,Sweden,SWE,ANDERSSON Eva
-Women,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Freestyle Relay A-B,Bronze,Swimming,1980,FR Germany,FRG,UNKNOWN
-Women,4x100 m Freestyle Relay C-D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Medley Relay A-B,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Medley Relay 1A-6,Bronze,Swimming,1980,Spain,ESP,UNKNOWN
+Women,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Women,4x100 m Freestyle Relay A-B,Bronze,Swimming,1980,FR Germany,FRG,FR Germany
+Women,4x100 m Freestyle Relay C-D,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Women,4x100 m Medley Relay A-B,Bronze,Swimming,1980,UNKNOWN,UNKNOWN,-
+Women,4x100 m Medley Relay 1A-6,Bronze,Swimming,1980,Spain,ESP,Spain
 Men,25 m Freestyle 1A,Bronze,Swimming,1984,Finland,FIN,KANTOLA Pekka
 Men,25 m Freestyle 1B,Bronze,Swimming,1984,United States of America,USA,MASON Rick
 Men,25 m Freestyle 1C,Bronze,Swimming,1984,United States of America,USA,GOODMAN D.
@@ -16668,8 +16668,8 @@ Men,200 m Individual Medley L6,Bronze,Swimming,1984,Australia,AUS,CHALMERS Malco
 Men,400 m Individual Medley B1,Bronze,Swimming,1984,United States of America,USA,HEAPHY Mark
 Men,400 m Individual Medley B2,Bronze,Swimming,1984,Canada,CAN,GRENON Lee
 Men,400 m Individual Medley B3,Bronze,Swimming,1984,Denmark,DEN,PEDERSEN Arne
-Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1984,Australia,AUS,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1984,New Zealand,NZL,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1984,Australia,AUS,Australia
+Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1984,New Zealand,NZL,New Zealand
 Women,25 m Freestyle 1B,Bronze,Swimming,1984,Great Britain,GBR,BARR Isabel
 Women,25 m Freestyle C3,Bronze,Swimming,1984,Iceland,ISL,PETURSDOTTIR Sigrun
 Women,25 m Freestyle C6,Bronze,Swimming,1984,Great Britain,GBR,BLAKE Anna
@@ -16795,30 +16795,30 @@ Men,4x25 m Individual Medley 3,Bronze,Swimming,1984,Netherlands,NED,STROET W.
 Men,4x50 m Individual Medley 4,Bronze,Swimming,1984,FR Germany,FRG,WIEDEMAN P.
 Men,4x50 m Individual Medley 5,Bronze,Swimming,1984,Kuwait,KUW,NASER Yousuf
 Men,4x50 m Individual Medley 6,Bronze,Swimming,1984,France,FRA,MICOREC Bernard
-Men,4x50 m Freestyle Relay A1-A9,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x50 m Freestyle Relay C1-C8,Bronze,Swimming,1984,Canada,CAN,UNKNOWN
-Men,4x50 m Freestyle Relay L1-L6,Bronze,Swimming,1984,France,FRA,UNKNOWN
-Men,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1984,France,FRA,UNKNOWN
-Men,4x100 m Freestyle Relay A1-A9,Bronze,Swimming,1984,Canada,CAN,UNKNOWN
-Men,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1984,Sweden,SWE,UNKNOWN
-Men,4x50 m Medley Relay A1-A9,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,4x50 m Medley Relay L1-L6,Bronze,Swimming,1984,Great Britain,GBR,UNKNOWN
-Men,4x100 m Medley Relay A1-A9,Bronze,Swimming,1984,FR Germany,FRG,UNKNOWN
-Men,4x100 m Medley Relay B1-B3,Bronze,Swimming,1984,Sweden,SWE,UNKNOWN
-Men,4x100 m Medley Relay 1A-6,Bronze,Swimming,1984,Poland,POL,UNKNOWN
+Men,4x50 m Freestyle Relay A1-A9,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,-
+Men,4x50 m Freestyle Relay C1-C8,Bronze,Swimming,1984,Canada,CAN,Canada
+Men,4x50 m Freestyle Relay L1-L6,Bronze,Swimming,1984,France,FRA,France
+Men,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1984,France,FRA,France
+Men,4x100 m Freestyle Relay A1-A9,Bronze,Swimming,1984,Canada,CAN,Canada
+Men,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1984,Sweden,SWE,Sweden
+Men,4x50 m Medley Relay A1-A9,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,-
+Men,4x50 m Medley Relay L1-L6,Bronze,Swimming,1984,Great Britain,GBR,Great Britain
+Men,4x100 m Medley Relay A1-A9,Bronze,Swimming,1984,FR Germany,FRG,FR Germany
+Men,4x100 m Medley Relay B1-B3,Bronze,Swimming,1984,Sweden,SWE,Sweden
+Men,4x100 m Medley Relay 1A-6,Bronze,Swimming,1984,Poland,POL,Poland
 Women,4x25 m Individual Medley 2,Bronze,Swimming,1984,Netherlands,NED,ABELS S.
 Women,4x25 m Individual Medley 3,Bronze,Swimming,1984,France,FRA,CRESPO M. Therese
 Women,4x50 m Individual Medley 4,Bronze,Swimming,1984,Norway,NOR,GRONLI Bente
 Women,4x50 m Individual Medley 5,Bronze,Swimming,1984,Canada,CAN,VOTH S.
-Women,4x50 m Individual Medley 6,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x50 m Freestyle Relay C1-C8,Bronze,Swimming,1984,France,FRA,UNKNOWN
-Women,4x50 m Freestyle Relay L1-L6,Bronze,Swimming,1984,Norway,NOR,UNKNOWN
-Women,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Women,4x100 m Freestyle Relay A1-A9,Bronze,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x50 m Medley Relay L1-L6,Bronze,Swimming,1984,Norway,NOR,UNKNOWN
-Women,4x100 m Medley Relay A1-A9,Bronze,Swimming,1984,Great Britain,GBR,UNKNOWN
-Women,4x100 m Medley Relay B1-B3,Bronze,Swimming,1984,Great Britain,GBR,UNKNOWN
+Women,4x50 m Individual Medley 6,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,-
+Women,4x50 m Freestyle Relay C1-C8,Bronze,Swimming,1984,France,FRA,France
+Women,4x50 m Freestyle Relay L1-L6,Bronze,Swimming,1984,Norway,NOR,Norway
+Women,4x50 m Freestyle Relay 2-6,Bronze,Swimming,1984,UNKNOWN,UNKNOWN,-
+Women,4x100 m Freestyle Relay A1-A9,Bronze,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x50 m Medley Relay L1-L6,Bronze,Swimming,1984,Norway,NOR,Norway
+Women,4x100 m Medley Relay A1-A9,Bronze,Swimming,1984,Great Britain,GBR,Great Britain
+Women,4x100 m Medley Relay B1-B3,Bronze,Swimming,1984,Great Britain,GBR,Great Britain
 Men,50 m Freestyle 1A,Bronze,Swimming,1988,Italy,ITA,GALLIANO Maurizio
 Men,50 m Freestyle 1B,Bronze,Swimming,1988,Greece,GRE,GRIVEAS Kyriakos
 Men,50 m Freestyle 1C,Bronze,Swimming,1988,United States of America,USA,CICCOTTO Rick
@@ -16975,8 +16975,8 @@ Men,200 m Individual Medley 5,Bronze,Swimming,1988,Poland,POL,SAJKIEWICZ Zbignie
 Men,200 m Individual Medley 6,Bronze,Swimming,1988,Ireland,IRL,DUNNE Gerard
 Men,400 m Individual Medley B2,Bronze,Swimming,1988,Canada,CAN,GRENON Lee
 Men,400 m Individual Medley B3,Bronze,Swimming,1988,Norway,NOR,PEDERSEN Noel
-Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1988,Italy,ITA,UNKNOWN
-Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1988,Israel,ISR,UNKNOWN
+Men,3x25 m Freestyle Relay 1A-1C,Bronze,Swimming,1988,Italy,ITA,Italy
+Men,3x50 m Medley Relay 2-4,Bronze,Swimming,1988,Israel,ISR,Israel
 Women,50 m Freestyle B1,Bronze,Swimming,1988,Canada,CAN,WEICKER Yvette
 Women,50 m Freestyle B2,Bronze,Swimming,1988,USSR,URS,CHIPOVALOVA Tatiana
 Women,50 m Freestyle B3,Bronze,Swimming,1988,Sweden,SWE,TJERNBERG Gabriella
@@ -17069,19 +17069,19 @@ Men,4x50 m Freestyle Relay A1-A8,Bronze,Swimming,1988,Great Britain,GBR,MORETON 
 Men,4x50 m Freestyle Relay A1-A8,Bronze,Swimming,1988,Great Britain,GBR,WOODS Marc
 Men,4x50 m Freestyle Relay A1-A8,Bronze,Swimming,1988,Great Britain,GBR,ALDOUS Peter
 Men,4x50 m Freestyle Relay A1-A8,Bronze,Swimming,1988,Great Britain,GBR,WILLIAMS Mark
-Men,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1988,United States of America,USA,UNKNOWN
-Men,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,France,FRA,UNKNOWN
-Men,4x50 m Medley Relay A1-A8,Bronze,Swimming,1988,Netherlands,NED,UNKNOWN
-Men,4x100 m Medley Relay B1-B3,Bronze,Swimming,1988,Spain,ESP,UNKNOWN
-Men,4x100 m Medley Relay A-L,Bronze,Swimming,1988,Netherlands,NED,UNKNOWN
-Men,4x100 m Medley Relay T/P open,Bronze,Swimming,1988,Israel,ISR,UNKNOWN
-Women,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1988,Great Britain,GBR,UNKNOWN
+Men,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1988,United States of America,USA,United States of America
+Men,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,France,FRA,France
+Men,4x50 m Medley Relay A1-A8,Bronze,Swimming,1988,Netherlands,NED,Netherlands
+Men,4x100 m Medley Relay B1-B3,Bronze,Swimming,1988,Spain,ESP,Spain
+Men,4x100 m Medley Relay A-L,Bronze,Swimming,1988,Netherlands,NED,Netherlands
+Men,4x100 m Medley Relay T/P open,Bronze,Swimming,1988,Israel,ISR,Israel
+Women,4x100 m Freestyle Relay B1-B3,Bronze,Swimming,1988,Great Britain,GBR,Great Britain
 Women,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,Denmark,DEN,BARLUND Gritt
 Women,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,Denmark,DEN,GADEBERG Dorthe
 Women,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,Denmark,DEN,HEDE Charlotte
 Women,4x100 m Freestyle Relay A-L,Bronze,Swimming,1988,Denmark,DEN,PEDERSEN Jeanette
-Women,4x100 m Medley Relay B1-B3,Bronze,Swimming,1988,Canada,CAN,UNKNOWN
-Women,4x100 m Medley Relay A-L,Bronze,Swimming,1988,France,FRA,UNKNOWN
+Women,4x100 m Medley Relay B1-B3,Bronze,Swimming,1988,Canada,CAN,Canada
+Women,4x100 m Medley Relay A-L,Bronze,Swimming,1988,France,FRA,France
 Men,50 m Freestyle S2,Bronze,Swimming,1992,Great Britain,GBR,MCGREGOR Alan
 Men,50 m Freestyle S3,Bronze,Swimming,1992,Great Britain,GBR,HUNTER Tommy
 Men,50 m Freestyle S4,Bronze,Swimming,1992,Spain,ESP,MUNOZ Pau Marc
@@ -18422,14 +18422,14 @@ Women,Teams 3,Bronze,Table Tennis,1980,Jamaica,JAM,BROWN Jennifer
 Women,Teams 3,Bronze,Table Tennis,1980,Jamaica,JAM,WHITE Quida
 Women,Teams 4,Bronze,Table Tennis,1980,Sweden,SWE,KARLSSON L.
 Women,Teams 4,Bronze,Table Tennis,1980,Sweden,SWE,SODERBERG R.
-Women,Teams 1B,Bronze,Table Tennis,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1B,Bronze,Table Tennis,1980,UNKNOWN,UNKNOWN,-
 Men,Singles 2,Bronze,Table Tennis,1984,Austria,AUT,ALTENDORFER Fritz
 Men,Singles 3,Bronze,Table Tennis,1984,Austria,AUT,STARL Peter
 Men,Singles 4,Bronze,Table Tennis,1984,United States of America,USA,DEMPSEY Michael
 Men,Singles 1A,Bronze,Table Tennis,1984,Finland,FIN,LAUNONEN Matti
 Men,Singles 1B,Bronze,Table Tennis,1984,Finland,FIN,KAJASTE
 Men,Singles 1C,Bronze,Table Tennis,1984,FR Germany,FRG,JAKSCH Rudolf
-Men,Singles C1,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Singles C1,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Singles C2,Bronze,Table Tennis,1984,Belgium,BEL,MAEBE D.
 Men,Singles C3,Bronze,Table Tennis,1984,Netherlands,NED,HARTMANS R.
 Men,Singles C4,Bronze,Table Tennis,1984,Portugal,POR,SANTOS Paulo Jorge
@@ -18451,31 +18451,31 @@ Women,Singles 2,Bronze,Table Tennis,1984,FR Germany,FRG,LAMSBACH Ruth
 Women,Singles 3,Bronze,Table Tennis,1984,France,FRA,ANDRE R.
 Women,Singles 4,Bronze,Table Tennis,1984,Switzerland,SUI,ZAUGG Rosa
 Women,Singles 1B,Bronze,Table Tennis,1984,Switzerland,SUI,DROUX Christiane
-Women,Singles 1C,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Singles 1C,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
 Women,Singles C3,Bronze,Table Tennis,1984,Canada,CAN,JOHNSON Martha
 Women,Singles C4-5,Bronze,Table Tennis,1984,Ireland,IRL,CLOONAN Morna
 Women,Singles L3,Bronze,Table Tennis,1984,Iceland,ISL,GUNNARSDOTTIR H.
 Women,Singles L4,Bronze,Table Tennis,1984,Great Britain,GBR,SMITH A.
 Women,Singles L4,Bronze,Table Tennis,1984,Norway,NOR,NAESS K.
-Women,Singles L5,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Singles L5,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
 Women,Open CL,Bronze,Table Tennis,1984,Belgium,BEL,BORRE Ingrid
 Women,Open 1B-4,Bronze,Table Tennis,1984,Netherlands,NED,VANDERBOSCH
-Men,Teams 2,Bronze,Table Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 3,Bronze,Table Tennis,1984,Korea,KOR,UNKNOWN
-Men,Teams 4,Bronze,Table Tennis,1984,Hong Kong,HKG,UNKNOWN
-Men,Teams 1A,Bronze,Table Tennis,1984,Great Britain,GBR,UNKNOWN
-Men,Teams 1B,Bronze,Table Tennis,1984,Great Britain,GBR,UNKNOWN
-Men,Teams 1C,Bronze,Table Tennis,1984,Belgium,BEL,UNKNOWN
-Men,Teams CP2-4,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,Teams CP5,Bronze,Table Tennis,1984,Ireland,IRL,UNKNOWN
-Men,Teams L1,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Teams 2,Bronze,Table Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 3,Bronze,Table Tennis,1984,Korea,KOR,Korea
+Men,Teams 4,Bronze,Table Tennis,1984,Hong Kong,HKG,Hong Kong
+Men,Teams 1A,Bronze,Table Tennis,1984,Great Britain,GBR,Great Britain
+Men,Teams 1B,Bronze,Table Tennis,1984,Great Britain,GBR,Great Britain
+Men,Teams 1C,Bronze,Table Tennis,1984,Belgium,BEL,Belgium
+Men,Teams CP2-4,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
+Men,Teams CP5,Bronze,Table Tennis,1984,Ireland,IRL,Ireland
+Men,Teams L1,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Teams L4,Bronze,Table Tennis,1984,France,FRA,GAROFALO Thierry
 Men,Teams L4,Bronze,Table Tennis,1984,France,FRA,PENAUD Bernard
-Men,Teams L4,Bronze,Table Tennis,1984,France,FRA,UNKNOWN
-Men,Teams L5,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Women,Teams 2,Bronze,Table Tennis,1984,Great Britain,GBR,UNKNOWN
-Women,Teams 4,Bronze,Table Tennis,1984,FR Germany,FRG,UNKNOWN
-Women,Teams 1A-C,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Teams L4,Bronze,Table Tennis,1984,France,FRA,Finland
+Men,Teams L5,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
+Women,Teams 2,Bronze,Table Tennis,1984,Great Britain,GBR,Great Britain
+Women,Teams 4,Bronze,Table Tennis,1984,FR Germany,FRG,FR Germany
+Women,Teams 1A-C,Bronze,Table Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Singles 2,Bronze,Table Tennis,1988,Austria,AUT,ALTENDORFER Fritz
 Men,Singles 3,Bronze,Table Tennis,1988,Austria,AUT,SUTTER Christian
 Men,Singles 4,Bronze,Table Tennis,1988,United States of America,USA,DEMPSEY Michael
@@ -18499,13 +18499,13 @@ Women,Singles 2-4,Bronze,Table Tennis,1988,FR Germany,FRG,WENINGER Christiane
 Women,Singles TT6,Bronze,Table Tennis,1988,China,CHN,CHENG Yu
 Women,Singles TT7,Bronze,Table Tennis,1988,FR Germany,FRG,BAUER Birgit
 Women,Singles TT open,Bronze,Table Tennis,1988,Sweden,SWE,ANDERSSON Marie-Louise
-Men,Teams 2,Bronze,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 3,Bronze,Table Tennis,1988,Great Britain,GBR,UNKNOWN
-Men,Teams 4,Bronze,Table Tennis,1988,Hong Kong,HKG,UNKNOWN
-Men,Teams 1A,Bronze,Table Tennis,1988,United States of America,USA,UNKNOWN
-Men,Teams 1B,Bronze,Table Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 1C,Bronze,Table Tennis,1988,Belgium,BEL,UNKNOWN
-Men,Teams C5-C8,Bronze,Table Tennis,1988,Ireland,IRL,UNKNOWN
+Men,Teams 2,Bronze,Table Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 3,Bronze,Table Tennis,1988,Great Britain,GBR,Great Britain
+Men,Teams 4,Bronze,Table Tennis,1988,Hong Kong,HKG,Hong Kong
+Men,Teams 1A,Bronze,Table Tennis,1988,United States of America,USA,United States of America
+Men,Teams 1B,Bronze,Table Tennis,1988,Austria,AUT,Austria
+Men,Teams 1C,Bronze,Table Tennis,1988,Belgium,BEL,Belgium
+Men,Teams C5-C8,Bronze,Table Tennis,1988,Ireland,IRL,Ireland
 Men,Teams TT2,Bronze,Table Tennis,1988,FR Germany,FRG,REHDER Hans Jurgen
 Men,Teams TT2,Bronze,Table Tennis,1988,FR Germany,FRG,VELROYEN Herbert
 Men,Teams TT5,Bronze,Table Tennis,1988,Hungary,HUN,KOVACS Gyozo
@@ -18514,9 +18514,9 @@ Men,Teams TT6,Bronze,Table Tennis,1988,Hungary,HUN,ERDOS Lajos
 Men,Teams TT6,Bronze,Table Tennis,1988,Hungary,HUN,MAJSAI Karoly
 Men,Teams TT7,Bronze,Table Tennis,1988,Denmark,DEN,HAVALESCHKA Frands
 Men,Teams TT7,Bronze,Table Tennis,1988,Denmark,DEN,PEHRSSON Torben
-Women,Teams 2,Bronze,Table Tennis,1988,FR Germany,FRG,UNKNOWN
-Women,Teams 4,Bronze,Table Tennis,1988,Austria,AUT,UNKNOWN
-Women,Teams TT6,Bronze,Table Tennis,1988,Sweden,SWE,UNKNOWN
+Women,Teams 2,Bronze,Table Tennis,1988,FR Germany,FRG,FR Germany
+Women,Teams 4,Bronze,Table Tennis,1988,Austria,AUT,Austria
+Women,Teams TT6,Bronze,Table Tennis,1988,Sweden,SWE,Sweden
 Men,Singles 1,Bronze,Table Tennis,1992,Korea,KOR,LEE Hae Gon
 Men,Singles 1,Bronze,Table Tennis,1992,Korea,KOR,KANG Seong Hoon
 Men,Singles 2,Bronze,Table Tennis,1992,Korea,KOR,KIM Kyung Mook
@@ -18557,38 +18557,38 @@ Men,Teams 1,Bronze,Table Tennis,1992,Germany,GER,ESSBACH Dieter
 Men,Teams 1,Bronze,Table Tennis,1992,Germany,GER,KIRCHHOFF Ralf
 Men,Teams 2,Bronze,Table Tennis,1992,Germany,GER,HASSLER Bruno
 Men,Teams 2,Bronze,Table Tennis,1992,Germany,GER,SPERLING Helmut
-Men,Teams 2,Bronze,Table Tennis,1992,Germany,GER,UNKNOWN
+Men,Teams 2,Bronze,Table Tennis,1992,Germany,GER,Finland
 Men,Teams 3,Bronze,Table Tennis,1992,France,FRA,HATTON Daniel
 Men,Teams 3,Bronze,Table Tennis,1992,France,FRA,PEETERS Michel
-Men,Teams 3,Bronze,Table Tennis,1992,France,FRA,UNKNOWN
+Men,Teams 3,Bronze,Table Tennis,1992,France,FRA,Korea
 Men,Teams 4,Bronze,Table Tennis,1992,Germany,GER,ALTENBURG Gunter
 Men,Teams 4,Bronze,Table Tennis,1992,Germany,GER,HUHN Winfried
-Men,Teams 4,Bronze,Table Tennis,1992,Germany,GER,UNKNOWN
+Men,Teams 4,Bronze,Table Tennis,1992,Germany,GER,Belgium
 Men,Teams 5,Bronze,Table Tennis,1992,Hong Kong,HKG,IP Sui Lam
 Men,Teams 5,Bronze,Table Tennis,1992,Hong Kong,HKG,KWONG Kam Shing
-Men,Teams 5,Bronze,Table Tennis,1992,Hong Kong,HKG,UNKNOWN
+Men,Teams 5,Bronze,Table Tennis,1992,Hong Kong,HKG,Austria
 Men,Teams 6,Bronze,Table Tennis,1992,Sweden,SWE,KARLSSON Mattias
 Men,Teams 6,Bronze,Table Tennis,1992,Sweden,SWE,STROMSTEDT Peter
 Men,Teams 8,Bronze,Table Tennis,1992,Great Britain,GBR,HOPE David
 Men,Teams 8,Bronze,Table Tennis,1992,Great Britain,GBR,YOUNG David
-Men,Teams 8,Bronze,Table Tennis,1992,Great Britain,GBR,UNKNOWN
+Men,Teams 8,Bronze,Table Tennis,1992,Great Britain,GBR,Germany
 Men,Teams 9,Bronze,Table Tennis,1992,France,FRA,GAROFALO Thierry
 Men,Teams 9,Bronze,Table Tennis,1992,France,FRA,PICHON Alain
-Men,Teams 9,Bronze,Table Tennis,1992,France,FRA,UNKNOWN
+Men,Teams 9,Bronze,Table Tennis,1992,France,FRA,Germany
 Men,Teams 10,Bronze,Table Tennis,1992,Denmark,DEN,HAVALESCHKA Frands
 Men,Teams 10,Bronze,Table Tennis,1992,Denmark,DEN,JACOB Jes
 Men,Teams 10,Bronze,Table Tennis,1992,Denmark,DEN,PEHRSSON Torben
-Men,Teams 10,Bronze,Table Tennis,1992,Denmark,DEN,UNKNOWN
+Men,Teams 10,Bronze,Table Tennis,1992,Denmark,DEN,United States of America
 Women,Teams 3,Bronze,Table Tennis,1992,Ireland,IRL,CALLANAN Siobhan
 Women,Teams 3,Bronze,Table Tennis,1992,Ireland,IRL,STYNES Esther
 Women,Teams 5,Bronze,Table Tennis,1992,Italy,ITA,NARDELLI Maria
 Women,Teams 5,Bronze,Table Tennis,1992,Italy,ITA,PLONER Christina
 Women,Teams 5,Bronze,Table Tennis,1992,Italy,ITA,SACCA Patrizia
-Women,Teams 5,Bronze,Table Tennis,1992,Italy,ITA,UNKNOWN
+Women,Teams 5,Bronze,Table Tennis,1992,Italy,ITA,Austria
 Women,Teams 10,Bronze,Table Tennis,1992,Netherlands,NED,HENDRIKS Diane
 Women,Teams 10,Bronze,Table Tennis,1992,Netherlands,NED,HOEK-HEPPENHUIS I.
 Women,Teams 10,Bronze,Table Tennis,1992,Netherlands,NED,MEEUS Patrizia
-Women,Teams 10,Bronze,Table Tennis,1992,Netherlands,NED,UNKNOWN
+Women,Teams 10,Bronze,Table Tennis,1992,Netherlands,NED,Germany
 Men,Singles 1,Bronze,Table Tennis,1996,Korea,KOR,KANG Sung Hoon
 Men,Singles 1,Bronze,Table Tennis,1996,Argentina,ARG,HAYLAN Jose Daniel
 Men,Singles 2,Bronze,Table Tennis,1996,Austria,AUT,SCHARF Gerhard
@@ -18627,19 +18627,19 @@ Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,KANG Sung Hoon
 Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,KIM Kyung Mook
 Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,LEE Hae Gon
 Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,PARK Haun
-Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,UNKNOWN
+Men,Teams 1-2,Bronze,Table Tennis,1996,Korea,KOR,Germany
 Men,Teams 3,Bronze,Table Tennis,1996,Germany,GER,DORR Werner
 Men,Teams 3,Bronze,Table Tennis,1996,Germany,GER,GUERTLER Jan
-Men,Teams 3,Bronze,Table Tennis,1996,Germany,GER,UNKNOWN
+Men,Teams 3,Bronze,Table Tennis,1996,Germany,GER,Great Britain
 Men,Teams 4-5,Bronze,Table Tennis,1996,Belgium,BEL,GHION Dimitri
 Men,Teams 4-5,Bronze,Table Tennis,1996,Belgium,BEL,LEDOUX Alain
 Men,Teams 4-5,Bronze,Table Tennis,1996,Belgium,BEL,PLETINCKX Jean-Marc
-Men,Teams 4-5,Bronze,Table Tennis,1996,Belgium,BEL,UNKNOWN
+Men,Teams 4-5,Bronze,Table Tennis,1996,Belgium,BEL,Austria
 Men,Teams 6-8,Bronze,Table Tennis,1996,United States of America,USA,LEIBOVITZ Tahl
 Men,Teams 6-8,Bronze,Table Tennis,1996,United States of America,USA,SEIDENFELD Mitchell
 Men,Teams 9-10,Bronze,Table Tennis,1996,Slovakia,SVK,DOVALOVSZKI Emil
 Men,Teams 9-10,Bronze,Table Tennis,1996,Slovakia,SVK,GASPAR Ladislav
-Men,Teams 9-10,Bronze,Table Tennis,1996,Slovakia,SVK,UNKNOWN
+Men,Teams 9-10,Bronze,Table Tennis,1996,Slovakia,SVK,Germany
 Women,Teams 3-5,Bronze,Table Tennis,1996,United States of America,USA,JOHNSON Jennifer
 Women,Teams 3-5,Bronze,Table Tennis,1996,United States of America,USA,DI LORENZO Jacqueline
 Women,Teams 3-5,Bronze,Table Tennis,1996,United States of America,USA,TERRANOVA Terese
@@ -18731,7 +18731,7 @@ Men,Teams 9,Bronze,Table Tennis,2004,Chinese Taipei,TPE,HSU Chih Shan
 Men,Teams 9,Bronze,Table Tennis,2004,Chinese Taipei,TPE,HU Ming Fu
 Men,Teams 10,Bronze,Table Tennis,2004,Sweden,SWE,ANDERSSON Fredrik
 Men,Teams 10,Bronze,Table Tennis,2004,Sweden,SWE,ANDREE Magnus
-Women,Teams 1-3,Bronze,Table Tennis,2004,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1-3,Bronze,Table Tennis,2004,UNKNOWN,UNKNOWN,-
 Women,Teams 4-5,Bronze,Table Tennis,2004,Jordan,JOR,ABUAWAD Khetam
 Women,Teams 4-5,Bronze,Table Tennis,2004,Jordan,JOR,AL AZZAM Fatemah
 Women,Teams 4-5,Bronze,Table Tennis,2004,Jordan,JOR,AL BARGOUTI Maha
@@ -18908,14 +18908,14 @@ Women,Teams 2,Bronze,Wheelchair Tennis,1980,Ireland,IRL,HENDRA A.SINNOTT Anne
 Women,Teams 3,Bronze,Wheelchair Tennis,1980,Jamaica,JAM,BROWN Jennifer
 Women,Teams 3,Bronze,Wheelchair Tennis,1980,Jamaica,JAM,WHITE Quida
 Women,Teams 4,Bronze,Wheelchair Tennis,1980,Sweden,SWE,KARLSSON L.SODERBERG R.
-Women,Teams 1B,Bronze,Wheelchair Tennis,1980,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1B,Bronze,Wheelchair Tennis,1980,UNKNOWN,UNKNOWN,-
 Men,Singles 2,Bronze,Wheelchair Tennis,1984,Austria,AUT,ALTENDORFER Fritz
 Men,Singles 3,Bronze,Wheelchair Tennis,1984,Austria,AUT,STARL Peter
 Men,Singles 4,Bronze,Wheelchair Tennis,1984,United States of America,USA,DEMPSEY Michael
 Men,Singles 1A,Bronze,Wheelchair Tennis,1984,Finland,FIN,LAUNONEN Matti
 Men,Singles 1B,Bronze,Wheelchair Tennis,1984,Finland,FIN,KAJASTE
 Men,Singles 1C,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,JAKSCH Rudolf
-Men,Singles C1,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Singles C1,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Singles C2,Bronze,Wheelchair Tennis,1984,Belgium,BEL,MAEBE D.
 Men,Singles C3,Bronze,Wheelchair Tennis,1984,Netherlands,NED,HARTMANS R.
 Men,Singles C4,Bronze,Wheelchair Tennis,1984,Portugal,POR,SANTOS Paulo Jorge
@@ -18937,31 +18937,31 @@ Women,Singles 2,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,LAMSBACH Ruth
 Women,Singles 3,Bronze,Wheelchair Tennis,1984,France,FRA,ANDRE R.
 Women,Singles 4,Bronze,Wheelchair Tennis,1984,Switzerland,SUI,ZAUGG Rosa
 Women,Singles 1B,Bronze,Wheelchair Tennis,1984,Switzerland,SUI,DROUX Christiane
-Women,Singles 1C,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Singles 1C,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
 Women,Singles C3,Bronze,Wheelchair Tennis,1984,Canada,CAN,JOHNSON Martha
 Women,Singles C4-5,Bronze,Wheelchair Tennis,1984,Ireland,IRL,CLOONAN Morna
 Women,Singles L3,Bronze,Wheelchair Tennis,1984,Iceland,ISL,GUNNARSDOTTIR H.
 Women,Singles L4,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,SMITH A.
 Women,Singles L4,Bronze,Wheelchair Tennis,1984,Norway,NOR,NAESS K.
-Women,Singles L5,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Singles L5,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
 Women,Open CL,Bronze,Wheelchair Tennis,1984,Belgium,BEL,BORRE Ingrid
 Women,Open 1B-4,Bronze,Wheelchair Tennis,1984,Netherlands,NED,VANDERBOSCH
-Men,Teams 2,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
-Men,Teams 3,Bronze,Wheelchair Tennis,1984,Korea,KOR,UNKNOWN
-Men,Teams 4,Bronze,Wheelchair Tennis,1984,Hong Kong,HKG,UNKNOWN
-Men,Teams 1A,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,UNKNOWN
-Men,Teams 1B,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,UNKNOWN
-Men,Teams 1C,Bronze,Wheelchair Tennis,1984,Belgium,BEL,UNKNOWN
-Men,Teams CP2-4,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Men,Teams CP5,Bronze,Wheelchair Tennis,1984,Ireland,IRL,UNKNOWN
-Men,Teams L1,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Teams 2,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
+Men,Teams 3,Bronze,Wheelchair Tennis,1984,Korea,KOR,Korea
+Men,Teams 4,Bronze,Wheelchair Tennis,1984,Hong Kong,HKG,Hong Kong
+Men,Teams 1A,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,Great Britain
+Men,Teams 1B,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,Great Britain
+Men,Teams 1C,Bronze,Wheelchair Tennis,1984,Belgium,BEL,Belgium
+Men,Teams CP2-4,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
+Men,Teams CP5,Bronze,Wheelchair Tennis,1984,Ireland,IRL,Ireland
+Men,Teams L1,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Teams L4,Bronze,Wheelchair Tennis,1984,France,FRA,GAROFALO Thierry
 Men,Teams L4,Bronze,Wheelchair Tennis,1984,France,FRA,PENAUD Bernard
-Men,Teams L4,Bronze,Wheelchair Tennis,1984,France,FRA,UNKNOWN
-Men,Teams L5,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
-Women,Teams 2,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,UNKNOWN
-Women,Teams 4,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,UNKNOWN
-Women,Teams 1A-C,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,UNKNOWN
+Men,Teams L4,Bronze,Wheelchair Tennis,1984,France,FRA,Finland
+Men,Teams L5,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
+Women,Teams 2,Bronze,Wheelchair Tennis,1984,Great Britain,GBR,Great Britain
+Women,Teams 4,Bronze,Wheelchair Tennis,1984,FR Germany,FRG,FR Germany
+Women,Teams 1A-C,Bronze,Wheelchair Tennis,1984,UNKNOWN,UNKNOWN,-
 Men,Singles 2,Bronze,Wheelchair Tennis,1988,Austria,AUT,ALTENDORFER Fritz
 Men,Singles 3,Bronze,Wheelchair Tennis,1988,Austria,AUT,SUTTER Christian
 Men,Singles 4,Bronze,Wheelchair Tennis,1988,United States of America,USA,DEMPSEY Michael
@@ -18985,13 +18985,13 @@ Women,Singles 2-4,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,WENINGER Christia
 Women,Singles TT6,Bronze,Wheelchair Tennis,1988,China,CHN,CHENG Yu
 Women,Singles TT7,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,BAUER Birgit
 Women,Singles TT open,Bronze,Wheelchair Tennis,1988,Sweden,SWE,ANDERSSON Marie-Louise
-Men,Teams 2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Men,Teams 3,Bronze,Wheelchair Tennis,1988,Great Britain,GBR,UNKNOWN
-Men,Teams 4,Bronze,Wheelchair Tennis,1988,Hong Kong,HKG,UNKNOWN
-Men,Teams 1A,Bronze,Wheelchair Tennis,1988,United States of America,USA,UNKNOWN
-Men,Teams 1B,Bronze,Wheelchair Tennis,1988,Austria,AUT,UNKNOWN
-Men,Teams 1C,Bronze,Wheelchair Tennis,1988,Belgium,BEL,UNKNOWN
-Men,Teams C5-C8,Bronze,Wheelchair Tennis,1988,Ireland,IRL,UNKNOWN
+Men,Teams 2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Men,Teams 3,Bronze,Wheelchair Tennis,1988,Great Britain,GBR,Great Britain
+Men,Teams 4,Bronze,Wheelchair Tennis,1988,Hong Kong,HKG,Hong Kong
+Men,Teams 1A,Bronze,Wheelchair Tennis,1988,United States of America,USA,United States of America
+Men,Teams 1B,Bronze,Wheelchair Tennis,1988,Austria,AUT,Austria
+Men,Teams 1C,Bronze,Wheelchair Tennis,1988,Belgium,BEL,Belgium
+Men,Teams C5-C8,Bronze,Wheelchair Tennis,1988,Ireland,IRL,Ireland
 Men,Teams TT2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,REHDER Hans Jurgen
 Men,Teams TT2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,VELROYEN Herbert
 Men,Teams TT5,Bronze,Wheelchair Tennis,1988,Hungary,HUN,KOVACS Gyozo
@@ -19000,9 +19000,9 @@ Men,Teams TT6,Bronze,Wheelchair Tennis,1988,Hungary,HUN,ERDOS Lajos
 Men,Teams TT6,Bronze,Wheelchair Tennis,1988,Hungary,HUN,MAJSAI Karoly
 Men,Teams TT7,Bronze,Wheelchair Tennis,1988,Denmark,DEN,HAVALESCHKA Frands
 Men,Teams TT7,Bronze,Wheelchair Tennis,1988,Denmark,DEN,PEHRSSON Torben
-Women,Teams 2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,UNKNOWN
-Women,Teams 4,Bronze,Wheelchair Tennis,1988,Austria,AUT,UNKNOWN
-Women,Teams TT6,Bronze,Wheelchair Tennis,1988,Sweden,SWE,UNKNOWN
+Women,Teams 2,Bronze,Wheelchair Tennis,1988,FR Germany,FRG,FR Germany
+Women,Teams 4,Bronze,Wheelchair Tennis,1988,Austria,AUT,Austria
+Women,Teams TT6,Bronze,Wheelchair Tennis,1988,Sweden,SWE,Sweden
 Men,Singles 1,Bronze,Wheelchair Tennis,1992,Korea,KOR,LEE Hae Gon
 Men,Singles 1,Bronze,Wheelchair Tennis,1992,Korea,KOR,KANG Seong Hoon
 Men,Singles 2,Bronze,Wheelchair Tennis,1992,Korea,KOR,KIM Kyung Mook
@@ -19043,37 +19043,37 @@ Men,Teams 1,Bronze,Wheelchair Tennis,1992,Germany,GER,ESSBACH Dieter
 Men,Teams 1,Bronze,Wheelchair Tennis,1992,Germany,GER,KIRCHHOFF Ralf
 Men,Teams 2,Bronze,Wheelchair Tennis,1992,Germany,GER,HASSLER Bruno
 Men,Teams 2,Bronze,Wheelchair Tennis,1992,Germany,GER,SPERLING Helmut
-Men,Teams 2,Bronze,Wheelchair Tennis,1992,Germany,GER,UNKNOWN
+Men,Teams 2,Bronze,Wheelchair Tennis,1992,Germany,GER,Finland
 Men,Teams 3,Bronze,Wheelchair Tennis,1992,France,FRA,HATTON Daniel
 Men,Teams 3,Bronze,Wheelchair Tennis,1992,France,FRA,PEETERS Michel
-Men,Teams 3,Bronze,Wheelchair Tennis,1992,France,FRA,UNKNOWN
+Men,Teams 3,Bronze,Wheelchair Tennis,1992,France,FRA,Korea
 Men,Teams 4,Bronze,Wheelchair Tennis,1992,Germany,GER,ALTENBURG Gunter
 Men,Teams 4,Bronze,Wheelchair Tennis,1992,Germany,GER,HUHN Winfried
-Men,Teams 4,Bronze,Wheelchair Tennis,1992,Germany,GER,UNKNOWN
+Men,Teams 4,Bronze,Wheelchair Tennis,1992,Germany,GER,Belgium
 Men,Teams 5,Bronze,Wheelchair Tennis,1992,Hong Kong,HKG,IP Sui Lam
 Men,Teams 5,Bronze,Wheelchair Tennis,1992,Hong Kong,HKG,KWONG Kam Shing
-Men,Teams 5,Bronze,Wheelchair Tennis,1992,Hong Kong,HKG,UNKNOWN
+Men,Teams 5,Bronze,Wheelchair Tennis,1992,Hong Kong,HKG,Austria
 Men,Teams 6,Bronze,Wheelchair Tennis,1992,Sweden,SWE,KARLSSON Mattias
 Men,Teams 6,Bronze,Wheelchair Tennis,1992,Sweden,SWE,STROMSTEDT Peter
 Men,Teams 8,Bronze,Wheelchair Tennis,1992,Great Britain,GBR,HOPE David
 Men,Teams 8,Bronze,Wheelchair Tennis,1992,Great Britain,GBR,YOUNG David
-Men,Teams 8,Bronze,Wheelchair Tennis,1992,Great Britain,GBR,UNKNOWN
+Men,Teams 8,Bronze,Wheelchair Tennis,1992,Great Britain,GBR,Germany
 Men,Teams 9,Bronze,Wheelchair Tennis,1992,France,FRA,GAROFALO Thierry
 Men,Teams 9,Bronze,Wheelchair Tennis,1992,France,FRA,PICHON Alain
-Men,Teams 9,Bronze,Wheelchair Tennis,1992,France,FRA,UNKNOWN
+Men,Teams 9,Bronze,Wheelchair Tennis,1992,France,FRA,Germany
 Men,Teams 10,Bronze,Wheelchair Tennis,1992,Denmark,DEN,HAVALESCHKA Frands
 Men,Teams 10,Bronze,Wheelchair Tennis,1992,Denmark,DEN,JACOB Jes
 Men,Teams 10,Bronze,Wheelchair Tennis,1992,Denmark,DEN,PEHRSSON Torben
-Men,Teams 10,Bronze,Wheelchair Tennis,1992,Denmark,DEN,UNKNOWN
+Men,Teams 10,Bronze,Wheelchair Tennis,1992,Denmark,DEN,United States of America
 Women,Teams 3,Bronze,Wheelchair Tennis,1992,Ireland,IRL,CALLANAN Siobhan
 Women,Teams 3,Bronze,Wheelchair Tennis,1992,Ireland,IRL,STYNES Esther
 Women,Teams 5,Bronze,Wheelchair Tennis,1992,Italy,ITA,NARDELLI Maria
 Women,Teams 5,Bronze,Wheelchair Tennis,1992,Italy,ITA,PLONER Christina
 Women,Teams 5,Bronze,Wheelchair Tennis,1992,Italy,ITA,SACCA Patrizia
-Women,Teams 5,Bronze,Wheelchair Tennis,1992,Italy,ITA,UNKNOWN
+Women,Teams 5,Bronze,Wheelchair Tennis,1992,Italy,ITA,Austria
 Women,Teams 10,Bronze,Wheelchair Tennis,1992,Netherlands,NED,HENDRIKS Diane
 Women,Teams 10,Bronze,Wheelchair Tennis,1992,Netherlands,NED,HOEK-HEPPENHUIS I.MEEUS Patrizia
-Women,Teams 10,Bronze,Wheelchair Tennis,1992,Netherlands,NED,UNKNOWN
+Women,Teams 10,Bronze,Wheelchair Tennis,1992,Netherlands,NED,Germany
 Men,Singles 1,Bronze,Wheelchair Tennis,1996,Korea,KOR,KANG Sung Hoon
 Men,Singles 1,Bronze,Wheelchair Tennis,1996,Argentina,ARG,HAYLAN Jose Daniel
 Men,Singles 2,Bronze,Wheelchair Tennis,1996,Austria,AUT,SCHARF Gerhard
@@ -19112,20 +19112,20 @@ Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,KANG Sung Hoon
 Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,KIM Kyung Mook
 Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,LEE Hae Gon
 Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,PARK Haun
-Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,UNKNOWN
+Men,Teams 1-2,Bronze,Wheelchair Tennis,1996,Korea,KOR,Germany
 Men,Teams 3,Bronze,Wheelchair Tennis,1996,Germany,GER,DORR Werner
 Men,Teams 3,Bronze,Wheelchair Tennis,1996,Germany,GER,GUERTLER Jan
-Men,Teams 3,Bronze,Wheelchair Tennis,1996,Germany,GER,UNKNOWN
+Men,Teams 3,Bronze,Wheelchair Tennis,1996,Germany,GER,Great Britain
 Men,Teams 4-5,Bronze,Wheelchair Tennis,1996,Belgium,BEL,GHION Dimitri
 Men,Teams 4-5,Bronze,Wheelchair Tennis,1996,Belgium,BEL,LEDOUX Alain
 Men,Teams 4-5,Bronze,Wheelchair Tennis,1996,Belgium,BEL,PLETINCKX Jean-Marc
-Men,Teams 4-5,Bronze,Wheelchair Tennis,1996,Belgium,BEL,UNKNOWN
+Men,Teams 4-5,Bronze,Wheelchair Tennis,1996,Belgium,BEL,Austria
 Men,Teams 6-8,Bronze,Wheelchair Tennis,1996,United States of America,USA,LEIBOVITZ Tahl
 Men,Teams 6-8,Bronze,Wheelchair Tennis,1996,United States of America,USA,SEIDENFELD Mitchell
 Men,Teams 9-10,Bronze,Wheelchair Tennis,1996,Germany,GER,FAEHNRICH Peter
 Men,Teams 9-10,Bronze,Wheelchair Tennis,1996,Germany,GER,MUELLER Bernd
 Men,Teams 9-10,Bronze,Wheelchair Tennis,1996,Germany,GER,SCHMANDT Andre
-Men,Teams 9-10,Bronze,Wheelchair Tennis,1996,Germany,GER,UNKNOWN
+Men,Teams 9-10,Bronze,Wheelchair Tennis,1996,Germany,GER,Slovakia
 Women,Teams 3-5,Bronze,Wheelchair Tennis,1996,United States of America,USA,JOHNSON Jennifer
 Women,Teams 3-5,Bronze,Wheelchair Tennis,1996,United States of America,USA,DI LORENZO Jacqueline
 Women,Teams 3-5,Bronze,Wheelchair Tennis,1996,United States of America,USA,TERRANOVA Terese
@@ -19217,7 +19217,7 @@ Men,Teams 9,Bronze,Wheelchair Tennis,2004,Chinese Taipei,TPE,HSU Chih Shan
 Men,Teams 9,Bronze,Wheelchair Tennis,2004,Chinese Taipei,TPE,HU Ming Fu
 Men,Teams 10,Bronze,Wheelchair Tennis,2004,Sweden,SWE,ANDERSSON Fredrik
 Men,Teams 10,Bronze,Wheelchair Tennis,2004,Sweden,SWE,ANDREE Magnus
-Women,Teams 1-3,Bronze,Wheelchair Tennis,2004,UNKNOWN,UNKNOWN,UNKNOWN
+Women,Teams 1-3,Bronze,Wheelchair Tennis,2004,UNKNOWN,UNKNOWN,-
 Women,Teams 4-5,Bronze,Wheelchair Tennis,2004,Jordan,JOR,ABUAWAD Khetam
 Women,Teams 4-5,Bronze,Wheelchair Tennis,2004,Jordan,JOR,AL AZZAM Fatemah
 Women,Teams 4-5,Bronze,Wheelchair Tennis,2004,Jordan,JOR,AL BARGOUTI Maha
@@ -19362,10 +19362,10 @@ Men,PT4,Bronze,Triathlon,2016,Spain,ESP,RUIZ LOPEZ Jairo
 Women,PT2,Bronze,Triathlon,2016,United States of America,USA,STOCKWELL Melissa
 Women,PT4,Bronze,Triathlon,2016,France,FRA,LEMOUSSU Gwladys
 Women,PT5,Bronze,Triathlon,2016,Great Britain,GBR,REID Melissa
-Men,Sitting Volleyball,Bronze,Volleyball,1980,Yugoslavia,YUG,UNKNOWN
-Men,Standing Volleyball,Bronze,Volleyball,1980,FR Germany,FRG,UNKNOWN
-Men,Sitting Volleyball,Bronze,Volleyball,1984,Sweden,SWE,UNKNOWN
-Men,Standing Volleyball,Bronze,Volleyball,1984,France,FRA,UNKNOWN
+Men,Sitting Volleyball,Bronze,Volleyball,1980,Yugoslavia,YUG,Yugoslavia
+Men,Standing Volleyball,Bronze,Volleyball,1980,FR Germany,FRG,FR Germany
+Men,Sitting Volleyball,Bronze,Volleyball,1984,Sweden,SWE,Sweden
+Men,Standing Volleyball,Bronze,Volleyball,1984,France,FRA,France
 Men,Sitting Volleyball,Bronze,Volleyball,1988,Norway,NOR,BRATHEN Knut Olav
 Men,Sitting Volleyball,Bronze,Volleyball,1988,Norway,NOR,HALVORSEN Erik
 Men,Sitting Volleyball,Bronze,Volleyball,1988,Norway,NOR,HODNEMYR Ole
@@ -19397,18 +19397,18 @@ Men,Sitting Volleyball,Bronze,Volleyball,1992,Germany,GER,SOICKE Siegmund
 Men,Sitting Volleyball,Bronze,Volleyball,1992,Germany,GER,SPREMBERG Frank
 Men,Sitting Volleyball,Bronze,Volleyball,1992,Germany,GER,STETTNER Ferenc
 Men,Sitting Volleyball,Bronze,Volleyball,1992,Germany,GER,WAHL Joachim
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,BANAS Peter
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,CSADER Michal
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,DAMAJKA Peter
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,KULAS Milan
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,MIHALCO Josef
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,MORAVCIK Peter
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,MOURECEK Jaromir
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,NOVOSAD Lubomir
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,PINKAVA Jaromir
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,SVOBODA Zdenek
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,TRTIK Frantisek
-Men,Standing Volleyball,Bronze,Volleyball,1992,GRONSKY Roman,TCH,VYTISK Ladislav
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,BANAS Peter
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,CSADER Michal
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,DAMAJKA Peter
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,KULAS Milan
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,MIHALCO Josef
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,MORAVCIK Peter
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,MOURECEK Jaromir
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,NOVOSAD Lubomir
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,PINKAVA Jaromir
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,SVOBODA Zdenek
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,TRTIK Frantisek
+Men,Standing Volleyball,Bronze,Volleyball,1992,Czech Republic,TCH,VYTISK Ladislav
 Men,Sitting Volleyball,Bronze,Volleyball,1996,Finland,FIN,HANNINEN Keijo
 Men,Sitting Volleyball,Bronze,Volleyball,1996,Finland,FIN,HEINO Jari
 Men,Sitting Volleyball,Bronze,Volleyball,1996,Finland,FIN,KAPIAINEN Petri
